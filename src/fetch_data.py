@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-import requests
 import pandas as pd
+import requests
 
 from .config import BASE_URL, COMPETITION_CODE, SEASON_START_YEAR
 
@@ -14,18 +14,18 @@ def fetch_matches(api_token: str, season_start_year: int = SEASON_START_YEAR) ->
     url = f"{BASE_URL}/competitions/{COMPETITION_CODE}/matches"
 
     headers = {
-        "X-Auth-Token": api_token
+        "X-Auth-Token": api_token,
     }
 
     params = {
-        "season": season_start_year
+        "season": season_start_year,
     }
 
     response = requests.get(url, headers=headers, params=params, timeout=30)
 
     if response.status_code != 200:
         raise RuntimeError(
-            f"football-data.org request failed. "
+            "football-data.org request failed. "
             f"Status code: {response.status_code}. "
             f"Response: {response.text[:500]}"
         )
@@ -55,7 +55,6 @@ def fetch_matches(api_token: str, season_start_year: int = SEASON_START_YEAR) ->
         )
 
     df = pd.DataFrame(rows)
-
     df["utc_date"] = pd.to_datetime(df["utc_date"], errors="coerce")
 
     return df
