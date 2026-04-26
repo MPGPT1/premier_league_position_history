@@ -55,6 +55,7 @@ def fetch_matches(api_token: str, season_start_year: int = SEASON_START_YEAR) ->
         )
 
     df = pd.DataFrame(rows)
+
     df["utc_date"] = pd.to_datetime(df["utc_date"], errors="coerce")
 
     return df
