@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-chart:
     runs-on: ubuntu-latest
@@ -35,8 +38,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add docs/_config.yml docs/index.md docs/chart.html docs/README.md
-          git add outputs/raw_matches.csv outputs/finished_matches.csv outputs/position_history.csv outputs/latest_table.csv outputs/premier_league_position_history.html
+          git add -A
 
           git commit -m "Update Premier League position chart" || echo "No changes to commit"
           git push
