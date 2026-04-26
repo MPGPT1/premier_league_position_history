@@ -34,10 +34,60 @@ jobs:
             echo "FOOTBALL_DATA_API_TOKEN exists"
           fi
 
+      - name: Show repository structure
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo "Root files:"
+          ls -la
+
+          echo "src files:"
+          ls -la src || true
+
+          echo "requirements.txt:"
+          cat requirements.txt || true
+
       - name: Install dependencies
         run: |
+          python --version
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Confirm Python imports
+        run: |
+          python - <<'PY'
+          import pandas
+          import requests
+          import plotly
+          import src.config
+          import src.fetch_data
+          import src.table_builder
+          import src.visualise
+          import src.main
+          print("All imports succeeded.")
+          PY
+
+      - name: Test football-data API connection
+        run: |
+          python - <<'PY'
+          import os
+          import requests
+
+          token = os.getenv("FOOTBALL_DATA_API_TOKEN")
+
+          url = "https://api.football-data.org/v4/competitions/PL/matches"
+          headers = {"X-Auth-Token": token}
+          params = {"season": 2025}
+
+          response = requests.get(url, headers=headers, params=params, timeout=30)
+
+          print("Status code:", response.status_code)
+          print("Response preview:", response.text[:500])
+
+          if response.status_code != 200:
+              raise SystemExit("football-data API request failed.")
+          PY
 
       - name: Run chart generator
         env:
@@ -45,12 +95,26 @@ jobs:
         run: |
           python -m src.main
 
+      - name: Show generated files
+        run: |
+          echo "docs:"
+          ls -la docs || true
+
+          echo "outputs:"
+          ls -la outputs || true
+
       - name: Commit generated chart files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
+          git status
           git add -A
+          git status
 
-          git commit -m "Update Premier League position chart" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "Update Premier League position chart"
+            git push
+          fi
