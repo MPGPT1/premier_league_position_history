@@ -12,6 +12,9 @@ def create_position_history_figure(position_history: pd.DataFrame) -> go.Figure:
     Create an interactive Plotly chart showing league position by matchday.
     """
 
+    if position_history.empty:
+        raise RuntimeError("Position history is empty. Cannot create visualisation.")
+
     latest_matchday = int(position_history["matchday"].max())
 
     latest_positions = position_history[
