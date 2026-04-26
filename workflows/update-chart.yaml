@@ -26,16 +26,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Premier League chart generator
+      - name: Run chart generator
         run: |
           python -m src.main
 
-      - name: Commit updated chart files
+      - name: Commit generated chart files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add docs/index.html docs/README.md outputs/position_history.csv outputs/latest_table.csv outputs/finished_matches.csv outputs/raw_matches.csv outputs/premier_league_position_history.html
+          git add docs/_config.yml docs/index.md docs/chart.html docs/README.md
+          git add outputs/raw_matches.csv outputs/finished_matches.csv outputs/position_history.csv outputs/latest_table.csv outputs/premier_league_position_history.html
 
           git commit -m "Update Premier League position chart" || echo "No changes to commit"
           git push
