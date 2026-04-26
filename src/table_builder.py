@@ -57,6 +57,7 @@ def initialise_table(teams: list[str]) -> dict:
             "goals_against": 0,
             "goal_difference": 0,
             "points": 0,
+            "form": [],
         }
         for team in teams
     }
@@ -86,10 +87,16 @@ def apply_match_result(table: dict, match: pd.Series) -> None:
         table[away_team]["lost"] += 1
         table[home_team]["points"] += 3
 
+        table[home_team]["form"].append("W")
+        table[away_team]["form"].append("L")
+
     elif away_goals > home_goals:
         table[away_team]["won"] += 1
         table[home_team]["lost"] += 1
         table[away_team]["points"] += 3
+
+        table[away_team]["form"].append("W")
+        table[home_team]["form"].append("L")
 
     else:
         table[home_team]["drawn"] += 1
@@ -97,10 +104,31 @@ def apply_match_result(table: dict, match: pd.Series) -> None:
         table[home_team]["points"] += 1
         table[away_team]["points"] += 1
 
+        table[home_team]["form"].append("D")
+        table[away_team]["form"].append("D")
+
     for team in [home_team, away_team]:
         table[team]["goal_difference"] = (
             table[team]["goals_for"] - table[team]["goals_against"]
         )
+
+
+def _zone_for_position(position: int) -> str:
+    """
+    Return football-style table zone.
+    """
+
+    if position <= 4:
+        return "Champions League"
+    if position in [5, 6]:
+        return "European chase"
+    if position >= 18:
+        return "Relegation zone"
+    if position >= 15:
+        return "Survival battle"
+    if position <= 10:
+        return "Top-half race"
+    return "Mid-table"
 
 
 def table_to_dataframe(table: dict, matchday: int) -> pd.DataFrame:
@@ -108,8 +136,25 @@ def table_to_dataframe(table: dict, matchday: int) -> pd.DataFrame:
     Convert the current league table dictionary into a ranked DataFrame.
     """
 
-    df = pd.DataFrame.from_dict(table, orient="index").reset_index()
-    df = df.rename(columns={"index": "team"})
+    rows = []
+
+    for team, stats in table.items():
+        rows.append(
+            {
+                "team": team,
+                "played": stats["played"],
+                "won": stats["won"],
+                "drawn": stats["drawn"],
+                "lost": stats["lost"],
+                "goals_for": stats["goals_for"],
+                "goals_against": stats["goals_against"],
+                "goal_difference": stats["goal_difference"],
+                "points": stats["points"],
+                "form": "".join(stats["form"][-5:]),
+            }
+        )
+
+    df = pd.DataFrame(rows)
 
     df = df.sort_values(
         by=["points", "goal_difference", "goals_for", "team"],
@@ -118,6 +163,7 @@ def table_to_dataframe(table: dict, matchday: int) -> pd.DataFrame:
 
     df["position"] = df.index + 1
     df["matchday"] = matchday
+    df["zone"] = df["position"].apply(_zone_for_position)
 
     ordered_columns = [
         "matchday",
@@ -131,6 +177,8 @@ def table_to_dataframe(table: dict, matchday: int) -> pd.DataFrame:
         "goals_against",
         "goal_difference",
         "points",
+        "form",
+        "zone",
     ]
 
     return df[ordered_columns]
@@ -165,7 +213,25 @@ def build_position_history(finished_matches: pd.DataFrame) -> pd.DataFrame:
     if not snapshots:
         raise RuntimeError("No matchday snapshots created.")
 
-    return pd.concat(snapshots, ignore_index=True)
+    position_history = pd.concat(snapshots, ignore_index=True)
+
+    position_history = position_history.sort_values(
+        ["team", "matchday"]
+    ).reset_index(drop=True)
+
+    position_history["previous_position"] = position_history.groupby("team")[
+        "position"
+    ].shift(1)
+
+    position_history["movement"] = (
+        position_history["previous_position"] - position_history["position"]
+    )
+
+    position_history["movement"] = position_history["movement"].fillna(0).astype(int)
+
+    return position_history.sort_values(
+        ["matchday", "position"]
+    ).reset_index(drop=True)
 
 
 def build_latest_table(position_history: pd.DataFrame) -> pd.DataFrame:
