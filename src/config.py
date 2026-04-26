@@ -4,20 +4,15 @@ import os
 from pathlib import Path
 
 
-# ---------------------------------------------------------
-# API CONFIG
-# ---------------------------------------------------------
-
 BASE_URL = "https://api.football-data.org/v4"
 COMPETITION_CODE = "PL"
 SEASON_START_YEAR = 2025
 
 API_TOKEN_ENV_VAR = "FOOTBALL_DATA_API_TOKEN"
 
+# Temporary fallback token so GitHub Actions can run even if the secret is not passed.
+DEFAULT_API_TOKEN = "c7d0a590792f4b508341aed2c6d2fc74"
 
-# ---------------------------------------------------------
-# PROJECT PATHS
-# ---------------------------------------------------------
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
@@ -37,24 +32,23 @@ DOCS_CHART_PATH = DOCS_DIR / "chart.html"
 DOCS_README_PATH = DOCS_DIR / "README.md"
 
 
-# ---------------------------------------------------------
-# TOKEN HANDLING
-# ---------------------------------------------------------
-
 def get_api_token() -> str:
     """
-    Read the football-data.org API token from an environment variable.
+    Read the football-data.org API token.
 
-    In GitHub Actions, this should come from either:
-    - repository secret FOOTBALL_DATA_API_TOKEN
-    - or workflow env FOOTBALL_DATA_API_TOKEN
+    Priority:
+    1. GitHub Actions/local environment variable FOOTBALL_DATA_API_TOKEN
+    2. DEFAULT_API_TOKEN fallback
     """
 
     api_token = os.getenv(API_TOKEN_ENV_VAR)
 
-    if not api_token:
-        raise RuntimeError(
-            f"Missing API token. Set the environment variable {API_TOKEN_ENV_VAR}."
-        )
+    if api_token:
+        return api_token
 
-    return api_token
+    if DEFAULT_API_TOKEN:
+        return DEFAULT_API_TOKEN
+
+    raise RuntimeError(
+        f"Missing API token. Set the environment variable {API_TOKEN_ENV_VAR}."
+    )
