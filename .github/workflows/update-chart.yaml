@@ -40,6 +40,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run chart generator
+        env:
+          FOOTBALL_DATA_API_TOKEN: ${{ secrets.FOOTBALL_DATA_API_TOKEN }}
         run: |
           python -m src.main
 
