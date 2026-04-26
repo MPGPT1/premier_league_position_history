@@ -8,6 +8,23 @@ def filter_finished_matches(raw_matches: pd.DataFrame) -> pd.DataFrame:
     Keep only completed matches with full-time scores.
     """
 
+    required_columns = {
+        "status",
+        "home_goals",
+        "away_goals",
+        "matchday",
+        "utc_date",
+        "home_team",
+        "away_team",
+    }
+
+    missing_columns = required_columns.difference(raw_matches.columns)
+
+    if missing_columns:
+        raise RuntimeError(
+            f"Raw matches data is missing required columns: {sorted(missing_columns)}"
+        )
+
     finished = raw_matches[
         (raw_matches["status"] == "FINISHED")
         & raw_matches["home_goals"].notna()
@@ -125,9 +142,13 @@ def build_position_history(finished_matches: pd.DataFrame) -> pd.DataFrame:
     """
 
     teams = sorted(
-        set(finished_matches["home_team"].dropna())
-        .union(set(finished_matches["away_team"].dropna()))
+        set(finished_matches["home_team"].dropna()).union(
+            set(finished_matches["away_team"].dropna())
+        )
     )
+
+    if not teams:
+        raise RuntimeError("No teams found in completed matches.")
 
     table = initialise_table(teams)
     snapshots = []
@@ -151,6 +172,9 @@ def build_latest_table(position_history: pd.DataFrame) -> pd.DataFrame:
     """
     Return the latest available league table.
     """
+
+    if position_history.empty:
+        raise RuntimeError("Position history is empty. Cannot build latest table.")
 
     latest_matchday = position_history["matchday"].max()
 
