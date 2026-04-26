@@ -1,681 +1,681 @@
-matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points
-1,1,Manchester City FC,1,1,0,0,4,0,4,3
-1,2,Sunderland AFC,1,1,0,0,3,0,3,3
-1,3,Tottenham Hotspur FC,1,1,0,0,3,0,3,3
-1,4,Liverpool FC,1,1,0,0,4,2,2,3
-1,5,Nottingham Forest FC,1,1,0,0,3,1,2,3
-1,6,Arsenal FC,1,1,0,0,1,0,1,3
-1,7,Leeds United FC,1,1,0,0,1,0,1,3
-1,8,Brighton & Hove Albion FC,1,0,1,0,1,1,0,1
-1,9,Fulham FC,1,0,1,0,1,1,0,1
-1,10,Aston Villa FC,1,0,1,0,0,0,0,1
-1,11,Chelsea FC,1,0,1,0,0,0,0,1
-1,12,Crystal Palace FC,1,0,1,0,0,0,0,1
-1,13,Newcastle United FC,1,0,1,0,0,0,0,1
-1,14,Everton FC,1,0,0,1,0,1,-1,0
-1,15,Manchester United FC,1,0,0,1,0,1,-1,0
-1,16,AFC Bournemouth,1,0,0,1,2,4,-2,0
-1,17,Brentford FC,1,0,0,1,1,3,-2,0
-1,18,Burnley FC,1,0,0,1,0,3,-3,0
-1,19,West Ham United FC,1,0,0,1,0,3,-3,0
-1,20,Wolverhampton Wanderers FC,1,0,0,1,0,4,-4,0
-2,1,Arsenal FC,2,2,0,0,6,0,6,6
-2,2,Tottenham Hotspur FC,2,2,0,0,5,0,5,6
-2,3,Liverpool FC,2,2,0,0,7,4,3,6
-2,4,Chelsea FC,2,1,1,0,5,1,4,4
-2,5,Nottingham Forest FC,2,1,1,0,4,2,2,4
-2,6,Manchester City FC,2,1,0,1,4,2,2,3
-2,7,Sunderland AFC,2,1,0,1,3,2,1,3
-2,8,Everton FC,2,1,0,1,2,1,1,3
-2,9,AFC Bournemouth,2,1,0,1,3,4,-1,3
-2,10,Brentford FC,2,1,0,1,2,3,-1,3
-2,11,Burnley FC,2,1,0,1,2,3,-1,3
-2,12,Leeds United FC,2,1,0,1,1,5,-4,3
-2,13,Fulham FC,2,0,2,0,2,2,0,2
-2,14,Crystal Palace FC,2,0,2,0,1,1,0,2
-2,15,Newcastle United FC,2,0,1,1,2,3,-1,1
-2,16,Manchester United FC,2,0,1,1,1,2,-1,1
-2,17,Aston Villa FC,2,0,1,1,0,1,-1,1
-2,18,Brighton & Hove Albion FC,2,0,1,1,1,3,-2,1
-2,19,Wolverhampton Wanderers FC,2,0,0,2,0,5,-5,0
-2,20,West Ham United FC,2,0,0,2,1,8,-7,0
-3,1,Liverpool FC,3,3,0,0,8,4,4,9
-3,2,Chelsea FC,3,2,1,0,7,1,6,7
-3,3,Arsenal FC,3,2,0,1,6,1,5,6
-3,4,Tottenham Hotspur FC,3,2,0,1,5,1,4,6
-3,5,Everton FC,3,2,0,1,5,3,2,6
-3,6,Sunderland AFC,3,2,0,1,5,3,2,6
-3,7,AFC Bournemouth,3,2,0,1,4,4,0,6
-3,8,Crystal Palace FC,3,1,2,0,4,1,3,5
-3,9,Manchester United FC,3,1,1,1,4,4,0,4
-3,10,Nottingham Forest FC,3,1,1,1,4,5,-1,4
-3,11,Brighton & Hove Albion FC,3,1,1,1,3,4,-1,4
-3,12,Leeds United FC,3,1,1,1,1,5,-4,4
-3,13,Manchester City FC,3,1,0,2,5,4,1,3
-3,14,Burnley FC,3,1,0,2,4,6,-2,3
-3,15,Brentford FC,3,1,0,2,3,5,-2,3
-3,16,West Ham United FC,3,1,0,2,4,8,-4,3
-3,17,Newcastle United FC,3,0,2,1,2,3,-1,2
-3,18,Fulham FC,3,0,2,1,2,4,-2,2
-3,19,Aston Villa FC,3,0,1,2,0,4,-4,1
-3,20,Wolverhampton Wanderers FC,3,0,0,3,2,8,-6,0
-4,1,Liverpool FC,4,4,0,0,9,4,5,12
-4,2,Arsenal FC,4,3,0,1,9,1,8,9
-4,3,Tottenham Hotspur FC,4,3,0,1,8,1,7,9
-4,4,AFC Bournemouth,4,3,0,1,6,5,1,9
-4,5,Chelsea FC,4,2,2,0,9,3,6,8
-4,6,Everton FC,4,2,1,1,5,3,2,7
-4,7,Sunderland AFC,4,2,1,1,5,3,2,7
-4,8,Manchester City FC,4,2,0,2,8,4,4,6
-4,9,Crystal Palace FC,4,1,3,0,4,1,3,6
-4,10,Newcastle United FC,4,1,2,1,3,3,0,5
-4,11,Fulham FC,4,1,2,1,3,4,-1,5
-4,12,Brentford FC,4,1,1,2,5,7,-2,4
-4,13,Brighton & Hove Albion FC,4,1,1,2,4,6,-2,4
-4,14,Manchester United FC,4,1,1,2,4,7,-3,4
-4,15,Nottingham Forest FC,4,1,1,2,4,8,-4,4
-4,16,Leeds United FC,4,1,1,2,1,6,-5,4
-4,17,Burnley FC,4,1,0,3,4,7,-3,3
-4,18,West Ham United FC,4,1,0,3,4,11,-7,3
-4,19,Aston Villa FC,4,0,2,2,0,4,-4,2
-4,20,Wolverhampton Wanderers FC,4,0,0,4,2,9,-7,0
-5,1,Liverpool FC,5,5,0,0,11,5,6,15
-5,2,Arsenal FC,5,3,1,1,10,2,8,10
-5,3,Tottenham Hotspur FC,5,3,1,1,10,3,7,10
-5,4,AFC Bournemouth,5,3,1,1,6,5,1,10
-5,5,Crystal Palace FC,5,2,3,0,6,2,4,9
-5,6,Chelsea FC,5,2,2,1,10,5,5,8
-5,7,Sunderland AFC,5,2,2,1,6,4,2,8
-5,8,Fulham FC,5,2,2,1,6,5,1,8
-5,9,Manchester City FC,5,2,1,2,9,5,4,7
-5,10,Everton FC,5,2,1,2,6,5,1,7
-5,11,Manchester United FC,5,2,1,2,6,8,-2,7
-5,12,Leeds United FC,5,2,1,2,4,7,-3,7
-5,13,Newcastle United FC,5,1,3,1,3,3,0,6
-5,14,Brighton & Hove Albion FC,5,1,2,2,6,8,-2,5
-5,15,Nottingham Forest FC,5,1,2,2,5,9,-4,5
-5,16,Burnley FC,5,1,1,3,5,8,-3,4
-5,17,Brentford FC,5,1,1,3,6,10,-4,4
-5,18,Aston Villa FC,5,0,3,2,1,5,-4,3
-5,19,West Ham United FC,5,1,0,4,5,13,-8,3
-5,20,Wolverhampton Wanderers FC,5,0,0,5,3,12,-9,0
-6,1,Liverpool FC,6,5,0,1,12,7,5,15
-6,2,Arsenal FC,6,4,1,1,12,3,9,13
-6,3,Crystal Palace FC,6,3,3,0,8,3,5,12
-6,4,Tottenham Hotspur FC,6,3,2,1,11,4,7,11
-6,5,Sunderland AFC,6,3,2,1,7,4,3,11
-6,6,AFC Bournemouth,6,3,2,1,8,7,1,11
-6,7,Manchester City FC,6,3,1,2,14,6,8,10
-6,8,Chelsea FC,6,2,2,2,11,8,3,8
-6,9,Everton FC,6,2,2,2,7,6,1,8
-6,10,Brighton & Hove Albion FC,6,2,2,2,9,9,0,8
-6,11,Fulham FC,6,2,2,2,7,8,-1,8
-6,12,Leeds United FC,6,2,2,2,6,9,-3,8
-6,13,Brentford FC,6,2,1,3,9,11,-2,7
-6,14,Manchester United FC,6,2,1,3,7,11,-4,7
-6,15,Newcastle United FC,6,1,3,2,4,5,-1,6
-6,16,Aston Villa FC,6,1,3,2,4,6,-2,6
-6,17,Nottingham Forest FC,6,1,2,3,5,10,-5,5
-6,18,Burnley FC,6,1,1,4,6,13,-7,4
-6,19,West Ham United FC,6,1,1,4,6,14,-8,4
-6,20,Wolverhampton Wanderers FC,6,0,1,5,4,13,-9,1
-7,1,Arsenal FC,7,5,1,1,14,3,11,16
-7,2,Liverpool FC,7,5,0,2,13,9,4,15
-7,3,Tottenham Hotspur FC,7,4,2,1,13,5,8,14
-7,4,AFC Bournemouth,7,4,2,1,11,8,3,14
-7,5,Manchester City FC,7,4,1,2,15,6,9,13
-7,6,Crystal Palace FC,7,3,3,1,9,5,4,12
-7,7,Chelsea FC,7,3,2,2,13,9,4,11
-7,8,Everton FC,7,3,2,2,9,7,2,11
-7,9,Sunderland AFC,7,3,2,2,7,6,1,11
-7,10,Manchester United FC,7,3,1,3,9,11,-2,10
-7,11,Newcastle United FC,7,2,3,2,6,5,1,9
-7,12,Brighton & Hove Albion FC,7,2,3,2,10,10,0,9
-7,13,Aston Villa FC,7,2,3,2,6,7,-1,9
-7,14,Fulham FC,7,2,2,3,8,11,-3,8
-7,15,Leeds United FC,7,2,2,3,7,11,-4,8
-7,16,Brentford FC,7,2,1,4,9,12,-3,7
-7,17,Nottingham Forest FC,7,1,2,4,5,12,-7,5
-7,18,Burnley FC,7,1,1,5,7,15,-8,4
-7,19,West Ham United FC,7,1,1,5,6,16,-10,4
-7,20,Wolverhampton Wanderers FC,7,0,2,5,5,14,-9,2
-8,1,Arsenal FC,8,6,1,1,15,3,12,19
-8,2,Manchester City FC,8,5,1,2,17,6,11,16
-8,3,AFC Bournemouth,8,4,3,1,14,11,3,15
-8,4,Liverpool FC,8,5,0,3,14,11,3,15
-8,5,Chelsea FC,8,4,2,2,16,9,7,14
-8,6,Tottenham Hotspur FC,8,4,2,2,14,7,7,14
-8,7,Sunderland AFC,8,4,2,2,9,6,3,14
-8,8,Crystal Palace FC,8,3,4,1,12,8,4,13
-8,9,Manchester United FC,8,4,1,3,11,12,-1,13
-8,10,Brighton & Hove Albion FC,8,3,3,2,12,11,1,12
-8,11,Aston Villa FC,8,3,3,2,8,8,0,12
-8,12,Everton FC,8,3,2,3,9,9,0,11
-8,13,Brentford FC,8,3,1,4,11,12,-1,10
-8,14,Newcastle United FC,8,2,3,3,7,7,0,9
-8,15,Fulham FC,8,2,2,4,8,12,-4,8
-8,16,Leeds United FC,8,2,2,4,7,13,-6,8
-8,17,Burnley FC,8,2,1,5,9,15,-6,7
-8,18,Nottingham Forest FC,8,1,2,5,5,15,-10,5
-8,19,West Ham United FC,8,1,1,6,6,18,-12,4
-8,20,Wolverhampton Wanderers FC,8,0,2,6,5,16,-11,2
-9,1,Arsenal FC,9,7,1,1,16,3,13,22
-9,2,AFC Bournemouth,9,5,3,1,16,11,5,18
-9,3,Tottenham Hotspur FC,9,5,2,2,17,7,10,17
-9,4,Sunderland AFC,9,5,2,2,11,7,4,17
-9,5,Manchester City FC,9,5,1,3,17,7,10,16
-9,6,Manchester United FC,9,5,1,3,15,14,1,16
-9,7,Liverpool FC,9,5,0,4,16,14,2,15
-9,8,Aston Villa FC,9,4,3,2,9,8,1,15
-9,9,Chelsea FC,9,4,2,3,17,11,6,14
-9,10,Crystal Palace FC,9,3,4,2,12,9,3,13
-9,11,Brentford FC,9,4,1,4,14,14,0,13
-9,12,Newcastle United FC,9,3,3,3,9,8,1,12
-9,13,Brighton & Hove Albion FC,9,3,3,3,14,15,-1,12
-9,14,Everton FC,9,3,2,4,9,12,-3,11
-9,15,Leeds United FC,9,3,2,4,9,14,-5,11
-9,16,Burnley FC,9,3,1,5,12,17,-5,10
-9,17,Fulham FC,9,2,2,5,9,14,-5,8
-9,18,Nottingham Forest FC,9,1,2,6,5,17,-12,5
-9,19,West Ham United FC,9,1,1,7,7,20,-13,4
-9,20,Wolverhampton Wanderers FC,9,0,2,7,7,19,-12,2
-10,1,Arsenal FC,10,8,1,1,18,3,15,25
-10,2,Manchester City FC,10,6,1,3,20,8,12,19
-10,3,Liverpool FC,10,6,0,4,18,14,4,18
-10,4,Sunderland AFC,10,5,3,2,12,8,4,18
-10,5,AFC Bournemouth,10,5,3,2,17,14,3,18
-10,6,Tottenham Hotspur FC,10,5,2,3,17,8,9,17
-10,7,Chelsea FC,10,5,2,3,18,11,7,17
-10,8,Manchester United FC,10,5,2,3,17,16,1,17
-10,9,Crystal Palace FC,10,4,4,2,14,9,5,16
-10,10,Brighton & Hove Albion FC,10,4,3,3,17,15,2,15
-10,11,Aston Villa FC,10,4,3,3,9,10,-1,15
-10,12,Brentford FC,10,4,1,5,14,16,-2,13
-10,13,Newcastle United FC,10,3,3,4,10,11,-1,12
-10,14,Everton FC,10,3,3,4,10,13,-3,12
-10,15,Fulham FC,10,3,2,5,12,14,-2,11
-10,16,Leeds United FC,10,3,2,5,9,17,-8,11
-10,17,Burnley FC,10,3,1,6,12,19,-7,10
-10,18,West Ham United FC,10,2,1,7,10,21,-11,7
-10,19,Nottingham Forest FC,10,1,3,6,7,19,-12,6
-10,20,Wolverhampton Wanderers FC,10,0,2,8,7,22,-15,2
-11,1,Arsenal FC,11,8,2,1,20,5,15,26
-11,2,Manchester City FC,11,7,1,3,23,8,15,22
-11,3,Chelsea FC,11,6,2,3,21,11,10,20
-11,4,Sunderland AFC,11,5,4,2,14,10,4,19
-11,5,Tottenham Hotspur FC,11,5,3,3,19,10,9,18
-11,6,Aston Villa FC,11,5,3,3,13,10,3,18
-11,7,Manchester United FC,11,5,3,3,19,18,1,18
-11,8,Liverpool FC,11,6,0,5,18,17,1,18
-11,9,AFC Bournemouth,11,5,3,3,17,18,-1,18
-11,10,Crystal Palace FC,11,4,5,2,14,9,5,17
-11,11,Brighton & Hove Albion FC,11,4,4,3,17,15,2,16
-11,12,Brentford FC,11,5,1,5,17,17,0,16
-11,13,Everton FC,11,4,3,4,12,13,-1,15
-11,14,Newcastle United FC,11,3,3,5,11,14,-3,12
-11,15,Fulham FC,11,3,2,6,12,16,-4,11
-11,16,Leeds United FC,11,3,2,6,10,20,-10,11
-11,17,Burnley FC,11,3,1,7,14,22,-8,10
-11,18,West Ham United FC,11,3,1,7,13,23,-10,10
-11,19,Nottingham Forest FC,11,2,3,6,10,20,-10,9
-11,20,Wolverhampton Wanderers FC,11,0,2,9,7,25,-18,2
-12,1,Arsenal FC,12,9,2,1,24,6,18,29
-12,2,Chelsea FC,12,7,2,3,23,11,12,23
-12,3,Manchester City FC,12,7,1,4,24,10,14,22
-12,4,Aston Villa FC,12,6,3,3,15,11,4,21
-12,5,Crystal Palace FC,12,5,5,2,16,9,7,20
-12,6,Brighton & Hove Albion FC,12,5,4,3,19,16,3,19
-12,7,Sunderland AFC,12,5,4,3,14,11,3,19
-12,8,AFC Bournemouth,12,5,4,3,19,20,-1,19
-12,9,Tottenham Hotspur FC,12,5,3,4,20,14,6,18
-12,10,Manchester United FC,12,5,3,4,19,19,0,18
-12,11,Everton FC,12,5,3,4,13,13,0,18
-12,12,Liverpool FC,12,6,0,6,18,20,-2,18
-12,13,Brentford FC,12,5,1,6,18,19,-1,16
-12,14,Newcastle United FC,12,4,3,5,13,15,-2,15
-12,15,Fulham FC,12,4,2,6,13,16,-3,14
-12,16,Nottingham Forest FC,12,3,3,6,13,20,-7,12
-12,17,West Ham United FC,12,3,2,7,15,25,-10,11
-12,18,Leeds United FC,12,3,2,7,11,22,-11,11
-12,19,Burnley FC,12,3,1,8,14,24,-10,10
-12,20,Wolverhampton Wanderers FC,12,0,2,10,7,27,-20,2
-13,1,Arsenal FC,13,9,3,1,25,7,18,30
-13,2,Manchester City FC,13,8,1,4,27,12,15,25
-13,3,Chelsea FC,13,7,3,3,24,12,12,24
-13,4,Aston Villa FC,13,7,3,3,16,11,5,24
-13,5,Brighton & Hove Albion FC,13,6,4,3,21,16,5,22
-13,6,Sunderland AFC,13,6,4,3,17,13,4,22
-13,7,Manchester United FC,13,6,3,4,21,20,1,21
-13,8,Liverpool FC,13,7,0,6,20,20,0,21
-13,9,Crystal Palace FC,13,5,5,3,17,11,6,20
-13,10,Brentford FC,13,6,1,6,21,20,1,19
-13,11,AFC Bournemouth,13,5,4,4,21,23,-2,19
-13,12,Tottenham Hotspur FC,13,5,3,5,21,16,5,18
-13,13,Newcastle United FC,13,5,3,5,17,16,1,18
-13,14,Everton FC,13,5,3,5,14,17,-3,18
-13,15,Fulham FC,13,5,2,6,15,17,-2,17
-13,16,Nottingham Forest FC,13,3,3,7,13,22,-9,12
-13,17,West Ham United FC,13,3,2,8,15,27,-12,11
-13,18,Leeds United FC,13,3,2,8,13,25,-12,11
-13,19,Burnley FC,13,3,1,9,15,27,-12,10
-13,20,Wolverhampton Wanderers FC,13,0,2,11,7,28,-21,2
-14,1,Arsenal FC,14,10,3,1,27,7,20,33
-14,2,Manchester City FC,14,9,1,4,32,16,16,28
-14,3,Aston Villa FC,14,8,3,3,20,14,6,27
-14,4,Chelsea FC,14,7,3,4,25,15,10,24
-14,5,Crystal Palace FC,14,6,5,3,18,11,7,23
-14,6,Sunderland AFC,14,6,5,3,18,14,4,23
-14,7,Brighton & Hove Albion FC,14,6,4,4,24,20,4,22
-14,8,Manchester United FC,14,6,4,4,22,21,1,22
-14,9,Liverpool FC,14,7,1,6,21,21,0,22
-14,10,Everton FC,14,6,3,5,15,17,-2,21
-14,11,Tottenham Hotspur FC,14,5,4,5,23,18,5,19
-14,12,Newcastle United FC,14,5,4,5,19,18,1,19
-14,13,Brentford FC,14,6,1,7,21,22,-1,19
-14,14,AFC Bournemouth,14,5,4,5,21,24,-3,19
-14,15,Fulham FC,14,5,2,7,19,22,-3,17
-14,16,Nottingham Forest FC,14,4,3,7,14,22,-8,15
-14,17,Leeds United FC,14,4,2,8,16,26,-10,14
-14,18,West Ham United FC,14,3,3,8,16,28,-12,12
-14,19,Burnley FC,14,3,1,10,15,28,-13,10
-14,20,Wolverhampton Wanderers FC,14,0,2,12,7,29,-22,2
-15,1,Arsenal FC,15,10,3,2,28,9,19,33
-15,2,Manchester City FC,15,10,1,4,35,16,19,31
-15,3,Aston Villa FC,15,9,3,3,22,15,7,30
-15,4,Crystal Palace FC,15,7,5,3,20,12,8,26
-15,5,Chelsea FC,15,7,4,4,25,15,10,25
-15,6,Manchester United FC,15,7,4,4,26,22,4,25
-15,7,Everton FC,15,7,3,5,18,17,1,24
-15,8,Brighton & Hove Albion FC,15,6,5,4,25,21,4,23
-15,9,Sunderland AFC,15,6,5,4,18,17,1,23
-15,10,Liverpool FC,15,7,2,6,24,24,0,23
-15,11,Tottenham Hotspur FC,15,6,4,5,25,18,7,22
-15,12,Newcastle United FC,15,6,4,5,21,19,2,22
-15,13,AFC Bournemouth,15,5,5,5,21,24,-3,20
-15,14,Brentford FC,15,6,1,8,21,24,-3,19
-15,15,Fulham FC,15,5,2,8,20,24,-4,17
-15,16,Leeds United FC,15,4,3,8,19,29,-10,15
-15,17,Nottingham Forest FC,15,4,3,8,14,25,-11,15
-15,18,West Ham United FC,15,3,4,8,17,29,-12,13
-15,19,Burnley FC,15,3,1,11,16,30,-14,10
-15,20,Wolverhampton Wanderers FC,15,0,2,13,8,33,-25,2
-16,1,Arsenal FC,16,11,3,2,30,10,20,36
-16,2,Manchester City FC,16,11,1,4,38,16,22,34
-16,3,Aston Villa FC,16,10,3,3,25,17,8,33
-16,4,Chelsea FC,16,8,4,4,27,15,12,28
-16,5,Crystal Palace FC,16,7,5,4,20,15,5,26
-16,6,Manchester United FC,16,7,5,4,30,26,4,26
-16,7,Liverpool FC,16,8,2,6,26,24,2,26
-16,8,Sunderland AFC,16,7,5,4,19,17,2,26
-16,9,Everton FC,16,7,3,6,18,19,-1,24
-16,10,Brighton & Hove Albion FC,16,6,5,5,25,23,2,23
-16,11,Tottenham Hotspur FC,16,6,4,6,25,21,4,22
-16,12,Newcastle United FC,16,6,4,6,21,20,1,22
-16,13,AFC Bournemouth,16,5,6,5,25,28,-3,21
-16,14,Fulham FC,16,6,2,8,23,26,-3,20
-16,15,Brentford FC,16,6,2,8,22,25,-3,20
-16,16,Nottingham Forest FC,16,5,3,8,17,25,-8,18
-16,17,Leeds United FC,16,4,4,8,20,30,-10,16
-16,18,West Ham United FC,16,3,4,9,19,32,-13,13
-16,19,Burnley FC,16,3,1,12,18,33,-15,10
-16,20,Wolverhampton Wanderers FC,16,0,2,14,9,35,-26,2
-17,1,Arsenal FC,17,12,3,2,31,10,21,39
-17,2,Manchester City FC,17,12,1,4,41,16,25,37
-17,3,Aston Villa FC,17,11,3,3,27,18,9,36
-17,4,Chelsea FC,17,8,5,4,29,17,12,29
-17,5,Liverpool FC,17,9,2,6,28,25,3,29
-17,6,Sunderland AFC,17,7,6,4,19,17,2,27
-17,7,Manchester United FC,17,7,5,5,31,28,3,26
-17,8,Crystal Palace FC,17,7,5,5,21,19,2,26
-17,9,Brighton & Hove Albion FC,17,6,6,5,25,23,2,24
-17,10,Everton FC,17,7,3,7,18,20,-2,24
-17,11,Newcastle United FC,17,6,5,6,23,22,1,23
-17,12,Brentford FC,17,7,2,8,24,25,-1,23
-17,13,Fulham FC,17,7,2,8,24,26,-2,23
-17,14,Tottenham Hotspur FC,17,6,4,7,26,23,3,22
-17,15,AFC Bournemouth,17,5,7,5,26,29,-3,22
-17,16,Leeds United FC,17,5,4,8,24,31,-7,19
-17,17,Nottingham Forest FC,17,5,3,9,17,26,-9,18
-17,18,West Ham United FC,17,3,4,10,19,35,-16,13
-17,19,Burnley FC,17,3,2,12,19,34,-15,11
-17,20,Wolverhampton Wanderers FC,17,0,2,15,9,37,-28,2
-18,1,Arsenal FC,18,13,3,2,33,11,22,42
-18,2,Manchester City FC,18,13,1,4,43,17,26,40
-18,3,Aston Villa FC,18,12,3,3,29,19,10,39
-18,4,Liverpool FC,18,10,2,6,30,26,4,32
-18,5,Chelsea FC,18,8,5,5,30,19,11,29
-18,6,Manchester United FC,18,8,5,5,32,28,4,29
-18,7,Sunderland AFC,18,7,7,4,20,18,2,28
-18,8,Brentford FC,18,8,2,8,28,26,2,26
-18,9,Crystal Palace FC,18,7,5,6,21,20,1,26
-18,10,Fulham FC,18,8,2,8,25,26,-1,26
-18,11,Tottenham Hotspur FC,18,7,4,7,27,23,4,25
-18,12,Everton FC,18,7,4,7,18,20,-2,25
-18,13,Brighton & Hove Albion FC,18,6,6,6,26,25,1,24
-18,14,Newcastle United FC,18,6,5,7,23,23,0,23
-18,15,AFC Bournemouth,18,5,7,6,27,33,-6,22
-18,16,Leeds United FC,18,5,5,8,25,32,-7,20
-18,17,Nottingham Forest FC,18,5,3,10,18,28,-10,18
-18,18,West Ham United FC,18,3,4,11,19,36,-17,13
-18,19,Burnley FC,18,3,3,12,19,34,-15,12
-18,20,Wolverhampton Wanderers FC,18,0,2,16,10,39,-29,2
-19,1,Arsenal FC,19,14,3,2,37,12,25,45
-19,2,Manchester City FC,19,13,2,4,43,17,26,41
-19,3,Aston Villa FC,19,12,3,4,30,23,7,39
-19,4,Liverpool FC,19,10,3,6,30,26,4,33
-19,5,Chelsea FC,19,8,6,5,32,21,11,30
-19,6,Manchester United FC,19,8,6,5,33,29,4,30
-19,7,Sunderland AFC,19,7,8,4,20,18,2,29
-19,8,Everton FC,19,8,4,7,20,20,0,28
-19,9,Brentford FC,19,8,3,8,28,26,2,27
-19,10,Crystal Palace FC,19,7,6,6,22,21,1,27
-19,11,Fulham FC,19,8,3,8,26,27,-1,27
-19,12,Tottenham Hotspur FC,19,7,5,7,27,23,4,26
-19,13,Newcastle United FC,19,7,5,7,26,24,2,26
-19,14,Brighton & Hove Albion FC,19,6,7,6,28,27,1,25
-19,15,AFC Bournemouth,19,5,8,6,29,35,-6,23
-19,16,Leeds United FC,19,5,6,8,25,32,-7,21
-19,17,Nottingham Forest FC,19,5,3,11,18,30,-12,18
-19,18,West Ham United FC,19,3,5,11,21,38,-17,14
-19,19,Burnley FC,19,3,3,13,20,37,-17,12
-19,20,Wolverhampton Wanderers FC,19,0,3,16,11,40,-29,3
-20,1,Arsenal FC,20,15,3,2,40,14,26,48
-20,2,Manchester City FC,20,13,3,4,44,18,26,42
-20,3,Aston Villa FC,20,13,3,4,33,24,9,42
-20,4,Liverpool FC,20,10,4,6,32,28,4,34
-20,5,Chelsea FC,20,8,7,5,33,22,11,31
-20,6,Manchester United FC,20,8,7,5,34,30,4,31
-20,7,Brentford FC,20,9,3,8,32,28,4,30
-20,8,Sunderland AFC,20,7,9,4,21,19,2,30
-20,9,Newcastle United FC,20,8,5,7,28,24,4,29
-20,10,Brighton & Hove Albion FC,20,7,7,6,30,27,3,28
-20,11,Fulham FC,20,8,4,8,28,29,-1,28
-20,12,Everton FC,20,8,4,8,22,24,-2,28
-20,13,Tottenham Hotspur FC,20,7,6,7,28,24,4,27
-20,14,Crystal Palace FC,20,7,6,7,22,23,-1,27
-20,15,AFC Bournemouth,20,5,8,7,31,38,-7,23
-20,16,Leeds United FC,20,5,7,8,26,33,-7,22
-20,17,Nottingham Forest FC,20,5,3,12,19,33,-14,18
-20,18,West Ham United FC,20,3,5,12,21,41,-20,14
-20,19,Burnley FC,20,3,3,14,20,39,-19,12
-20,20,Wolverhampton Wanderers FC,20,1,3,16,14,40,-26,6
-21,1,Arsenal FC,21,15,4,2,40,14,26,49
-21,2,Manchester City FC,21,13,4,4,45,19,26,43
-21,3,Aston Villa FC,21,13,4,4,33,24,9,43
-21,4,Liverpool FC,21,10,5,6,32,28,4,35
-21,5,Brentford FC,21,10,3,8,35,28,7,33
-21,6,Newcastle United FC,21,9,5,7,32,27,5,32
-21,7,Manchester United FC,21,8,8,5,36,32,4,32
-21,8,Chelsea FC,21,8,7,6,34,24,10,31
-21,9,Fulham FC,21,9,4,8,30,30,0,31
-21,10,Sunderland AFC,21,7,9,5,21,22,-1,30
-21,11,Brighton & Hove Albion FC,21,7,8,6,31,28,3,29
-21,12,Everton FC,21,8,5,8,23,25,-2,29
-21,13,Crystal Palace FC,21,7,7,7,22,23,-1,28
-21,14,Tottenham Hotspur FC,21,7,6,8,30,27,3,27
-21,15,AFC Bournemouth,21,6,8,7,34,40,-6,26
-21,16,Leeds United FC,21,5,7,9,29,37,-8,22
-21,17,Nottingham Forest FC,21,6,3,12,21,34,-13,21
-21,18,West Ham United FC,21,3,5,13,22,43,-21,14
-21,19,Burnley FC,21,3,4,14,22,41,-19,13
-21,20,Wolverhampton Wanderers FC,21,1,4,16,15,41,-26,7
-22,1,Arsenal FC,22,15,5,2,40,14,26,50
-22,2,Manchester City FC,22,13,4,5,45,21,24,43
-22,3,Aston Villa FC,22,13,4,5,33,25,8,43
-22,4,Liverpool FC,22,10,6,6,33,29,4,36
-22,5,Manchester United FC,22,9,8,5,38,32,6,35
-22,6,Chelsea FC,22,9,7,6,36,24,12,34
-22,7,Brentford FC,22,10,3,9,35,30,5,33
-22,8,Newcastle United FC,22,9,6,7,32,27,5,33
-22,9,Sunderland AFC,22,8,9,5,23,23,0,33
-22,10,Everton FC,22,9,5,8,24,25,-1,32
-22,11,Fulham FC,22,9,4,9,30,31,-1,31
-22,12,Brighton & Hove Albion FC,22,7,9,6,32,29,3,30
-22,13,Crystal Palace FC,22,7,7,8,23,25,-2,28
-22,14,Tottenham Hotspur FC,22,7,6,9,31,29,2,27
-22,15,AFC Bournemouth,22,6,9,7,35,41,-6,27
-22,16,Leeds United FC,22,6,7,9,30,37,-7,25
-22,17,Nottingham Forest FC,22,6,4,12,21,34,-13,22
-22,18,West Ham United FC,22,4,5,13,24,44,-20,17
-22,19,Burnley FC,22,3,5,14,23,42,-19,14
-22,20,Wolverhampton Wanderers FC,22,1,5,16,15,41,-26,8
-23,1,Arsenal FC,23,15,5,3,42,17,25,50
-23,2,Manchester City FC,23,14,4,5,47,21,26,46
-23,3,Aston Villa FC,23,14,4,5,35,25,10,46
-23,4,Manchester United FC,23,10,8,5,41,34,7,38
-23,5,Chelsea FC,23,10,7,6,39,25,14,37
-23,6,Liverpool FC,23,10,6,7,35,32,3,36
-23,7,Fulham FC,23,10,4,9,32,32,0,34
-23,8,Brentford FC,23,10,3,10,35,32,3,33
-23,9,Newcastle United FC,23,9,6,8,32,29,3,33
-23,10,Everton FC,23,9,6,8,25,26,-1,33
-23,11,Sunderland AFC,23,8,9,6,24,26,-2,33
-23,12,Brighton & Hove Albion FC,23,7,9,7,33,31,2,30
-23,13,AFC Bournemouth,23,7,9,7,38,43,-5,30
-23,14,Tottenham Hotspur FC,23,7,7,9,33,31,2,28
-23,15,Crystal Palace FC,23,7,7,9,24,28,-4,28
-23,16,Leeds United FC,23,6,8,9,31,38,-7,26
-23,17,Nottingham Forest FC,23,7,4,12,23,34,-11,25
-23,18,West Ham United FC,23,5,5,13,27,45,-18,20
-23,19,Burnley FC,23,3,6,14,25,44,-19,15
-23,20,Wolverhampton Wanderers FC,23,1,5,17,15,43,-28,8
-24,1,Arsenal FC,24,16,5,3,46,17,29,53
-24,2,Manchester City FC,24,14,5,5,49,23,26,47
-24,3,Aston Villa FC,24,14,4,6,35,26,9,46
-24,4,Manchester United FC,24,11,8,5,44,36,8,41
-24,5,Chelsea FC,24,11,7,6,42,27,15,40
-24,6,Liverpool FC,24,11,6,7,39,33,6,39
-24,7,Brentford FC,24,11,3,10,36,32,4,36
-24,8,Sunderland AFC,24,9,9,6,27,26,1,36
-24,9,Fulham FC,24,10,4,10,34,35,-1,34
-24,10,Everton FC,24,9,7,8,26,27,-1,34
-24,11,Newcastle United FC,24,9,6,9,33,33,0,33
-24,12,AFC Bournemouth,24,8,9,7,40,43,-3,33
-24,13,Brighton & Hove Albion FC,24,7,10,7,34,32,2,31
-24,14,Tottenham Hotspur FC,24,7,8,9,35,33,2,29
-24,15,Crystal Palace FC,24,7,8,9,25,29,-4,29
-24,16,Leeds United FC,24,6,8,10,31,42,-11,26
-24,17,Nottingham Forest FC,24,7,5,12,24,35,-11,26
-24,18,West Ham United FC,24,5,5,14,29,48,-19,20
-24,19,Burnley FC,24,3,6,15,25,47,-22,15
-24,20,Wolverhampton Wanderers FC,24,1,5,18,15,45,-30,8
-25,1,Arsenal FC,25,17,5,3,49,17,32,56
-25,2,Manchester City FC,25,15,5,5,51,24,27,50
-25,3,Aston Villa FC,25,14,5,6,36,27,9,47
-25,4,Manchester United FC,25,12,8,5,46,36,10,44
-25,5,Chelsea FC,25,12,7,6,45,28,17,43
-25,6,Liverpool FC,25,11,6,8,40,35,5,39
-25,7,Brentford FC,25,12,3,10,39,34,5,39
-25,8,Everton FC,25,10,7,8,28,28,0,37
-25,9,Sunderland AFC,25,9,9,7,27,29,-2,36
-25,10,Fulham FC,25,10,4,11,35,37,-2,34
-25,11,AFC Bournemouth,25,8,10,7,41,44,-3,34
-25,12,Newcastle United FC,25,9,6,10,35,36,-1,33
-25,13,Crystal Palace FC,25,8,8,9,26,29,-3,32
-25,14,Brighton & Hove Albion FC,25,7,10,8,34,33,1,31
-25,15,Tottenham Hotspur FC,25,7,8,10,35,35,0,29
-25,16,Leeds United FC,25,7,8,10,34,43,-9,29
-25,17,Nottingham Forest FC,25,7,5,13,25,38,-13,26
-25,18,West Ham United FC,25,6,5,14,31,48,-17,23
-25,19,Burnley FC,25,3,6,16,25,49,-24,15
-25,20,Wolverhampton Wanderers FC,25,1,5,19,16,48,-32,8
-26,1,Arsenal FC,26,17,6,3,50,18,32,57
-26,2,Manchester City FC,26,16,5,5,54,24,30,53
-26,3,Aston Villa FC,26,15,5,6,37,27,10,50
-26,4,Manchester United FC,26,12,9,5,47,37,10,45
-26,5,Chelsea FC,26,12,8,6,47,30,17,44
-26,6,Liverpool FC,26,12,6,8,41,35,6,42
-26,7,Brentford FC,26,12,4,10,40,35,5,40
-26,8,Everton FC,26,10,7,9,29,30,-1,37
-26,9,AFC Bournemouth,26,9,10,7,43,45,-2,37
-26,10,Newcastle United FC,26,10,6,10,37,37,0,36
-26,11,Sunderland AFC,26,9,9,8,27,30,-3,36
-26,12,Fulham FC,26,10,4,12,35,40,-5,34
-26,13,Crystal Palace FC,26,8,8,10,28,32,-4,32
-26,14,Brighton & Hove Albion FC,26,7,10,9,34,34,0,31
-26,15,Leeds United FC,26,7,9,10,36,45,-9,30
-26,16,Tottenham Hotspur FC,26,7,8,11,36,37,-1,29
-26,17,Nottingham Forest FC,26,7,6,13,25,38,-13,27
-26,18,West Ham United FC,26,6,6,14,32,49,-17,24
-26,19,Burnley FC,26,4,6,16,28,51,-23,18
-26,20,Wolverhampton Wanderers FC,26,1,6,19,16,48,-32,9
-27,1,Arsenal FC,27,18,6,3,54,19,35,60
-27,2,Manchester City FC,27,17,5,5,56,25,31,56
-27,3,Aston Villa FC,27,15,6,6,38,28,10,51
-27,4,Manchester United FC,27,13,9,5,48,37,11,48
-27,5,Chelsea FC,27,12,9,6,48,31,17,45
-27,6,Liverpool FC,27,13,6,8,42,35,7,45
-27,7,Brentford FC,27,12,4,11,40,37,3,40
-27,8,AFC Bournemouth,27,9,11,7,43,45,-2,38
-27,9,Everton FC,27,10,7,10,29,31,-2,37
-27,10,Fulham FC,27,11,4,12,38,41,-3,37
-27,11,Newcastle United FC,27,10,6,11,38,39,-1,36
-27,12,Sunderland AFC,27,9,9,9,28,33,-5,36
-27,13,Crystal Palace FC,27,9,8,10,29,32,-3,35
-27,14,Brighton & Hove Albion FC,27,8,10,9,36,34,2,34
-27,15,Leeds United FC,27,7,10,10,37,46,-9,31
-27,16,Tottenham Hotspur FC,27,7,8,12,37,41,-4,29
-27,17,Nottingham Forest FC,27,7,6,14,25,39,-14,27
-27,18,West Ham United FC,27,6,7,14,32,49,-17,25
-27,19,Burnley FC,27,4,7,16,29,52,-23,19
-27,20,Wolverhampton Wanderers FC,27,1,6,20,16,49,-33,9
-28,1,Arsenal FC,28,19,6,3,56,20,36,63
-28,2,Manchester City FC,28,18,5,5,57,25,32,59
-28,3,Manchester United FC,28,14,9,5,50,38,12,51
-28,4,Aston Villa FC,28,15,6,7,38,30,8,51
-28,5,Liverpool FC,28,14,6,8,47,37,10,48
-28,6,Chelsea FC,28,12,9,7,49,33,16,45
-28,7,Brentford FC,28,13,4,11,44,40,4,43
-28,8,Everton FC,28,11,7,10,32,33,-1,40
-28,9,Fulham FC,28,12,4,12,40,42,-2,40
-28,10,AFC Bournemouth,28,9,12,7,44,46,-2,39
-28,11,Brighton & Hove Albion FC,28,9,10,9,38,35,3,37
-28,12,Sunderland AFC,28,9,10,9,29,34,-5,37
-28,13,Newcastle United FC,28,10,6,12,40,42,-2,36
-28,14,Crystal Palace FC,28,9,8,11,30,34,-4,35
-28,15,Leeds United FC,28,7,10,11,37,47,-10,31
-28,16,Tottenham Hotspur FC,28,7,8,13,38,43,-5,29
-28,17,Nottingham Forest FC,28,7,6,15,26,41,-15,27
-28,18,West Ham United FC,28,6,7,15,34,54,-20,25
-28,19,Burnley FC,28,4,7,17,32,56,-24,19
-28,20,Wolverhampton Wanderers FC,28,2,6,20,18,49,-31,12
-29,1,Arsenal FC,29,20,6,3,57,20,37,66
-29,2,Manchester City FC,29,18,6,5,59,27,32,60
-29,3,Manchester United FC,29,14,9,6,51,40,11,51
-29,4,Aston Villa FC,29,15,6,8,39,34,5,51
-29,5,Chelsea FC,29,13,9,7,53,34,19,48
-29,6,Liverpool FC,29,14,6,9,48,39,9,48
-29,7,Brentford FC,29,13,5,11,44,40,4,44
-29,8,Everton FC,29,12,7,10,34,33,1,43
-29,9,AFC Bournemouth,29,9,13,7,44,46,-2,40
-29,10,Fulham FC,29,12,4,13,40,43,-3,40
-29,11,Sunderland AFC,29,10,10,9,30,34,-4,40
-29,12,Newcastle United FC,29,11,6,12,42,43,-1,39
-29,13,Crystal Palace FC,29,10,8,11,33,35,-2,38
-29,14,Brighton & Hove Albion FC,29,9,10,10,38,36,2,37
-29,15,Leeds United FC,29,7,10,12,37,48,-11,31
-29,16,Tottenham Hotspur FC,29,7,8,14,39,46,-7,29
-29,17,Nottingham Forest FC,29,7,7,15,28,43,-15,28
-29,18,West Ham United FC,29,7,7,15,35,54,-19,28
-29,19,Burnley FC,29,4,7,18,32,58,-26,19
-29,20,Wolverhampton Wanderers FC,29,3,6,20,20,50,-30,15
-30,1,Arsenal FC,30,21,6,3,59,20,39,69
-30,2,Manchester City FC,30,18,7,5,60,28,32,61
-30,3,Manchester United FC,30,15,9,6,54,41,13,54
-30,4,Aston Villa FC,30,15,6,9,40,37,3,51
-30,5,Liverpool FC,30,14,7,9,49,40,9,49
-30,6,Chelsea FC,30,13,9,8,53,35,18,48
-30,7,Brentford FC,30,13,6,11,46,42,4,45
-30,8,Everton FC,30,12,7,11,34,35,-1,43
-30,9,Newcastle United FC,30,12,6,12,43,43,0,42
-30,10,AFC Bournemouth,30,9,14,7,44,46,-2,41
-30,11,Fulham FC,30,12,5,13,40,43,-3,41
-30,12,Brighton & Hove Albion FC,30,10,10,10,39,36,3,40
-30,13,Sunderland AFC,30,10,10,10,30,35,-5,40
-30,14,Crystal Palace FC,30,10,9,11,33,35,-2,39
-30,15,Leeds United FC,30,7,11,12,37,48,-11,32
-30,16,Tottenham Hotspur FC,30,7,9,14,40,47,-7,30
-30,17,Nottingham Forest FC,30,7,8,15,28,43,-15,29
-30,18,West Ham United FC,30,7,8,15,36,55,-19,29
-30,19,Burnley FC,30,4,8,18,32,58,-26,20
-30,20,Wolverhampton Wanderers FC,30,3,7,20,22,52,-30,16
-31,1,Arsenal FC,31,21,7,3,61,22,39,70
-31,2,Manchester City FC,30,18,7,5,60,28,32,61
-31,3,Manchester United FC,31,15,10,6,56,43,13,55
-31,4,Aston Villa FC,31,16,6,9,42,37,5,54
-31,5,Liverpool FC,31,14,7,10,50,42,8,49
-31,6,Chelsea FC,31,13,9,9,53,38,15,48
-31,7,Brentford FC,31,13,7,11,46,42,4,46
-31,8,Everton FC,31,13,7,11,37,35,2,46
-31,9,Fulham FC,31,13,5,13,43,44,-1,44
-31,10,Brighton & Hove Albion FC,31,11,10,10,41,37,4,43
-31,11,Sunderland AFC,31,11,10,10,32,36,-4,43
-31,12,Newcastle United FC,31,12,6,13,44,45,-1,42
-31,13,AFC Bournemouth,31,9,15,7,46,48,-2,42
-31,14,Crystal Palace FC,30,10,9,11,33,35,-2,39
-31,15,Leeds United FC,31,7,12,12,37,48,-11,33
-31,16,Nottingham Forest FC,31,8,8,15,31,43,-12,32
-31,17,Tottenham Hotspur FC,31,7,9,15,40,50,-10,30
-31,18,West Ham United FC,31,7,8,16,36,57,-21,29
-31,19,Burnley FC,31,4,8,19,33,61,-28,20
-31,20,Wolverhampton Wanderers FC,31,3,8,20,24,54,-30,17
-32,1,Arsenal FC,32,21,7,4,62,24,38,70
-32,2,Manchester City FC,31,19,7,5,63,28,35,64
-32,3,Manchester United FC,32,15,10,7,57,45,12,55
-32,4,Aston Villa FC,32,16,7,9,43,38,5,55
-32,5,Liverpool FC,32,15,7,10,52,42,10,52
-32,6,Chelsea FC,32,13,9,10,53,41,12,48
-32,7,Brentford FC,32,13,8,11,48,44,4,47
-32,8,Everton FC,32,13,8,11,39,37,2,47
-32,9,Brighton & Hove Albion FC,32,12,10,10,43,37,6,46
-32,10,Sunderland AFC,32,12,10,10,33,36,-3,46
-32,11,AFC Bournemouth,32,10,15,7,48,49,-1,45
-32,12,Fulham FC,32,13,5,14,43,46,-3,44
-32,13,Crystal Palace FC,31,11,9,11,35,36,-1,42
-32,14,Newcastle United FC,32,12,6,14,45,47,-2,42
-32,15,Leeds United FC,32,8,12,12,39,49,-10,36
-32,16,Nottingham Forest FC,32,8,9,15,32,44,-12,33
-32,17,West Ham United FC,32,8,8,16,40,57,-17,32
-32,18,Tottenham Hotspur FC,32,7,9,16,40,51,-11,30
-32,19,Burnley FC,32,4,8,20,33,63,-30,20
-32,20,Wolverhampton Wanderers FC,32,3,8,21,24,58,-34,17
-33,1,Arsenal FC,33,21,7,5,63,26,37,70
-33,2,Manchester City FC,32,20,7,5,65,29,36,67
-33,3,Manchester United FC,33,16,10,7,58,45,13,58
-33,4,Aston Villa FC,33,17,7,9,47,41,6,58
-33,5,Liverpool FC,33,16,7,10,54,43,11,55
-33,6,Chelsea FC,33,13,9,11,53,42,11,48
-33,7,Brentford FC,33,13,9,11,48,44,4,48
-33,8,AFC Bournemouth,33,11,15,7,50,50,0,48
-33,9,Brighton & Hove Albion FC,33,12,11,10,45,39,6,47
-33,10,Everton FC,33,13,8,12,40,39,1,47
-33,11,Sunderland AFC,33,12,10,11,36,40,-4,46
-33,12,Fulham FC,33,13,6,14,43,46,-3,45
-33,13,Crystal Palace FC,32,11,10,11,35,36,-1,43
-33,14,Newcastle United FC,33,12,6,15,46,49,-3,42
-33,15,Leeds United FC,33,9,12,12,42,49,-7,39
-33,16,Nottingham Forest FC,33,9,9,15,36,45,-9,36
-33,17,West Ham United FC,33,8,9,16,40,57,-17,33
-33,18,Tottenham Hotspur FC,33,7,10,16,42,53,-11,31
-33,19,Burnley FC,33,4,8,21,34,67,-33,20
-33,20,Wolverhampton Wanderers FC,33,3,8,22,24,61,-37,17
-34,1,Arsenal FC,34,22,7,5,64,26,38,73
-34,2,Manchester City FC,33,21,7,5,66,29,37,70
-34,3,Manchester United FC,33,16,10,7,58,45,13,58
-34,4,Liverpool FC,34,17,7,10,57,44,13,58
-34,5,Aston Villa FC,34,17,7,10,47,42,5,58
-34,6,Brighton & Hove Albion FC,34,13,11,10,48,39,9,50
-34,7,AFC Bournemouth,34,11,16,7,52,52,0,49
-34,8,Chelsea FC,34,13,9,12,53,45,8,48
-34,9,Brentford FC,33,13,9,11,48,44,4,48
-34,10,Fulham FC,34,14,6,14,44,46,-2,48
-34,11,Everton FC,34,13,8,13,41,41,0,47
-34,12,Sunderland AFC,34,12,10,12,36,45,-9,46
-34,13,Crystal Palace FC,33,11,10,12,36,39,-3,43
-34,14,Newcastle United FC,34,12,6,16,46,50,-4,42
-34,15,Leeds United FC,34,9,13,12,44,51,-7,40
-34,16,Nottingham Forest FC,34,10,9,15,41,45,-4,39
-34,17,West Ham United FC,34,9,9,16,42,58,-16,36
-34,18,Tottenham Hotspur FC,34,8,10,16,43,53,-10,34
-34,19,Burnley FC,34,4,8,22,34,68,-34,20
-34,20,Wolverhampton Wanderers FC,34,3,8,23,24,62,-38,17
+matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,form,zone,previous_position,movement
+1,1,Manchester City FC,1,1,0,0,4,0,4,3,W,Champions League,,0
+1,2,Sunderland AFC,1,1,0,0,3,0,3,3,W,Champions League,,0
+1,3,Tottenham Hotspur FC,1,1,0,0,3,0,3,3,W,Champions League,,0
+1,4,Liverpool FC,1,1,0,0,4,2,2,3,W,Champions League,,0
+1,5,Nottingham Forest FC,1,1,0,0,3,1,2,3,W,European chase,,0
+1,6,Arsenal FC,1,1,0,0,1,0,1,3,W,European chase,,0
+1,7,Leeds United FC,1,1,0,0,1,0,1,3,W,Top-half race,,0
+1,8,Brighton & Hove Albion FC,1,0,1,0,1,1,0,1,D,Top-half race,,0
+1,9,Fulham FC,1,0,1,0,1,1,0,1,D,Top-half race,,0
+1,10,Aston Villa FC,1,0,1,0,0,0,0,1,D,Top-half race,,0
+1,11,Chelsea FC,1,0,1,0,0,0,0,1,D,Mid-table,,0
+1,12,Crystal Palace FC,1,0,1,0,0,0,0,1,D,Mid-table,,0
+1,13,Newcastle United FC,1,0,1,0,0,0,0,1,D,Mid-table,,0
+1,14,Everton FC,1,0,0,1,0,1,-1,0,L,Mid-table,,0
+1,15,Manchester United FC,1,0,0,1,0,1,-1,0,L,Survival battle,,0
+1,16,AFC Bournemouth,1,0,0,1,2,4,-2,0,L,Survival battle,,0
+1,17,Brentford FC,1,0,0,1,1,3,-2,0,L,Survival battle,,0
+1,18,Burnley FC,1,0,0,1,0,3,-3,0,L,Relegation zone,,0
+1,19,West Ham United FC,1,0,0,1,0,3,-3,0,L,Relegation zone,,0
+1,20,Wolverhampton Wanderers FC,1,0,0,1,0,4,-4,0,L,Relegation zone,,0
+2,1,Arsenal FC,2,2,0,0,6,0,6,6,WW,Champions League,6.0,5
+2,2,Tottenham Hotspur FC,2,2,0,0,5,0,5,6,WW,Champions League,3.0,1
+2,3,Liverpool FC,2,2,0,0,7,4,3,6,WW,Champions League,4.0,1
+2,4,Chelsea FC,2,1,1,0,5,1,4,4,DW,Champions League,11.0,7
+2,5,Nottingham Forest FC,2,1,1,0,4,2,2,4,WD,European chase,5.0,0
+2,6,Manchester City FC,2,1,0,1,4,2,2,3,WL,European chase,1.0,-5
+2,7,Sunderland AFC,2,1,0,1,3,2,1,3,WL,Top-half race,2.0,-5
+2,8,Everton FC,2,1,0,1,2,1,1,3,LW,Top-half race,14.0,6
+2,9,AFC Bournemouth,2,1,0,1,3,4,-1,3,LW,Top-half race,16.0,7
+2,10,Brentford FC,2,1,0,1,2,3,-1,3,LW,Top-half race,17.0,7
+2,11,Burnley FC,2,1,0,1,2,3,-1,3,LW,Mid-table,18.0,7
+2,12,Leeds United FC,2,1,0,1,1,5,-4,3,WL,Mid-table,7.0,-5
+2,13,Fulham FC,2,0,2,0,2,2,0,2,DD,Mid-table,9.0,-4
+2,14,Crystal Palace FC,2,0,2,0,1,1,0,2,DD,Mid-table,12.0,-2
+2,15,Newcastle United FC,2,0,1,1,2,3,-1,1,DL,Survival battle,13.0,-2
+2,16,Manchester United FC,2,0,1,1,1,2,-1,1,LD,Survival battle,15.0,-1
+2,17,Aston Villa FC,2,0,1,1,0,1,-1,1,DL,Survival battle,10.0,-7
+2,18,Brighton & Hove Albion FC,2,0,1,1,1,3,-2,1,DL,Relegation zone,8.0,-10
+2,19,Wolverhampton Wanderers FC,2,0,0,2,0,5,-5,0,LL,Relegation zone,20.0,1
+2,20,West Ham United FC,2,0,0,2,1,8,-7,0,LL,Relegation zone,19.0,-1
+3,1,Liverpool FC,3,3,0,0,8,4,4,9,WWW,Champions League,3.0,2
+3,2,Chelsea FC,3,2,1,0,7,1,6,7,DWW,Champions League,4.0,2
+3,3,Arsenal FC,3,2,0,1,6,1,5,6,WWL,Champions League,1.0,-2
+3,4,Tottenham Hotspur FC,3,2,0,1,5,1,4,6,WWL,Champions League,2.0,-2
+3,5,Everton FC,3,2,0,1,5,3,2,6,LWW,European chase,8.0,3
+3,6,Sunderland AFC,3,2,0,1,5,3,2,6,WLW,European chase,7.0,1
+3,7,AFC Bournemouth,3,2,0,1,4,4,0,6,LWW,Top-half race,9.0,2
+3,8,Crystal Palace FC,3,1,2,0,4,1,3,5,DDW,Top-half race,14.0,6
+3,9,Manchester United FC,3,1,1,1,4,4,0,4,LDW,Top-half race,16.0,7
+3,10,Nottingham Forest FC,3,1,1,1,4,5,-1,4,WDL,Top-half race,5.0,-5
+3,11,Brighton & Hove Albion FC,3,1,1,1,3,4,-1,4,DLW,Mid-table,18.0,7
+3,12,Leeds United FC,3,1,1,1,1,5,-4,4,WLD,Mid-table,12.0,0
+3,13,Manchester City FC,3,1,0,2,5,4,1,3,WLL,Mid-table,6.0,-7
+3,14,Burnley FC,3,1,0,2,4,6,-2,3,LWL,Mid-table,11.0,-3
+3,15,Brentford FC,3,1,0,2,3,5,-2,3,LWL,Survival battle,10.0,-5
+3,16,West Ham United FC,3,1,0,2,4,8,-4,3,LLW,Survival battle,20.0,4
+3,17,Newcastle United FC,3,0,2,1,2,3,-1,2,DLD,Survival battle,15.0,-2
+3,18,Fulham FC,3,0,2,1,2,4,-2,2,DDL,Relegation zone,13.0,-5
+3,19,Aston Villa FC,3,0,1,2,0,4,-4,1,DLL,Relegation zone,17.0,-2
+3,20,Wolverhampton Wanderers FC,3,0,0,3,2,8,-6,0,LLL,Relegation zone,19.0,-1
+4,1,Liverpool FC,4,4,0,0,9,4,5,12,WWWW,Champions League,1.0,0
+4,2,Arsenal FC,4,3,0,1,9,1,8,9,WWLW,Champions League,3.0,1
+4,3,Tottenham Hotspur FC,4,3,0,1,8,1,7,9,WWLW,Champions League,4.0,1
+4,4,AFC Bournemouth,4,3,0,1,6,5,1,9,LWWW,Champions League,7.0,3
+4,5,Chelsea FC,4,2,2,0,9,3,6,8,DWWD,European chase,2.0,-3
+4,6,Everton FC,4,2,1,1,5,3,2,7,LWWD,European chase,5.0,-1
+4,7,Sunderland AFC,4,2,1,1,5,3,2,7,WLWD,Top-half race,6.0,-1
+4,8,Manchester City FC,4,2,0,2,8,4,4,6,WLLW,Top-half race,13.0,5
+4,9,Crystal Palace FC,4,1,3,0,4,1,3,6,DDWD,Top-half race,8.0,-1
+4,10,Newcastle United FC,4,1,2,1,3,3,0,5,DLDW,Top-half race,17.0,7
+4,11,Fulham FC,4,1,2,1,3,4,-1,5,DDLW,Mid-table,18.0,7
+4,12,Brentford FC,4,1,1,2,5,7,-2,4,LWLD,Mid-table,15.0,3
+4,13,Brighton & Hove Albion FC,4,1,1,2,4,6,-2,4,DLWL,Mid-table,11.0,-2
+4,14,Manchester United FC,4,1,1,2,4,7,-3,4,LDWL,Mid-table,9.0,-5
+4,15,Nottingham Forest FC,4,1,1,2,4,8,-4,4,WDLL,Survival battle,10.0,-5
+4,16,Leeds United FC,4,1,1,2,1,6,-5,4,WLDL,Survival battle,12.0,-4
+4,17,Burnley FC,4,1,0,3,4,7,-3,3,LWLL,Survival battle,14.0,-3
+4,18,West Ham United FC,4,1,0,3,4,11,-7,3,LLWL,Relegation zone,16.0,-2
+4,19,Aston Villa FC,4,0,2,2,0,4,-4,2,DLLD,Relegation zone,19.0,0
+4,20,Wolverhampton Wanderers FC,4,0,0,4,2,9,-7,0,LLLL,Relegation zone,20.0,0
+5,1,Liverpool FC,5,5,0,0,11,5,6,15,WWWWW,Champions League,1.0,0
+5,2,Arsenal FC,5,3,1,1,10,2,8,10,WWLWD,Champions League,2.0,0
+5,3,Tottenham Hotspur FC,5,3,1,1,10,3,7,10,WWLWD,Champions League,3.0,0
+5,4,AFC Bournemouth,5,3,1,1,6,5,1,10,LWWWD,Champions League,4.0,0
+5,5,Crystal Palace FC,5,2,3,0,6,2,4,9,DDWDW,European chase,9.0,4
+5,6,Chelsea FC,5,2,2,1,10,5,5,8,DWWDL,European chase,5.0,-1
+5,7,Sunderland AFC,5,2,2,1,6,4,2,8,WLWDD,Top-half race,7.0,0
+5,8,Fulham FC,5,2,2,1,6,5,1,8,DDLWW,Top-half race,11.0,3
+5,9,Manchester City FC,5,2,1,2,9,5,4,7,WLLWD,Top-half race,8.0,-1
+5,10,Everton FC,5,2,1,2,6,5,1,7,LWWDL,Top-half race,6.0,-4
+5,11,Manchester United FC,5,2,1,2,6,8,-2,7,LDWLW,Mid-table,14.0,3
+5,12,Leeds United FC,5,2,1,2,4,7,-3,7,WLDLW,Mid-table,16.0,4
+5,13,Newcastle United FC,5,1,3,1,3,3,0,6,DLDWD,Mid-table,10.0,-3
+5,14,Brighton & Hove Albion FC,5,1,2,2,6,8,-2,5,DLWLD,Mid-table,13.0,-1
+5,15,Nottingham Forest FC,5,1,2,2,5,9,-4,5,WDLLD,Survival battle,15.0,0
+5,16,Burnley FC,5,1,1,3,5,8,-3,4,LWLLD,Survival battle,17.0,1
+5,17,Brentford FC,5,1,1,3,6,10,-4,4,LWLDL,Survival battle,12.0,-5
+5,18,Aston Villa FC,5,0,3,2,1,5,-4,3,DLLDD,Relegation zone,19.0,1
+5,19,West Ham United FC,5,1,0,4,5,13,-8,3,LLWLL,Relegation zone,18.0,-1
+5,20,Wolverhampton Wanderers FC,5,0,0,5,3,12,-9,0,LLLLL,Relegation zone,20.0,0
+6,1,Liverpool FC,6,5,0,1,12,7,5,15,WWWWL,Champions League,1.0,0
+6,2,Arsenal FC,6,4,1,1,12,3,9,13,WLWDW,Champions League,2.0,0
+6,3,Crystal Palace FC,6,3,3,0,8,3,5,12,DWDWW,Champions League,5.0,2
+6,4,Tottenham Hotspur FC,6,3,2,1,11,4,7,11,WLWDD,Champions League,3.0,-1
+6,5,Sunderland AFC,6,3,2,1,7,4,3,11,LWDDW,European chase,7.0,2
+6,6,AFC Bournemouth,6,3,2,1,8,7,1,11,WWWDD,European chase,4.0,-2
+6,7,Manchester City FC,6,3,1,2,14,6,8,10,LLWDW,Top-half race,9.0,2
+6,8,Chelsea FC,6,2,2,2,11,8,3,8,WWDLL,Top-half race,6.0,-2
+6,9,Everton FC,6,2,2,2,7,6,1,8,WWDLD,Top-half race,10.0,1
+6,10,Brighton & Hove Albion FC,6,2,2,2,9,9,0,8,LWLDW,Top-half race,14.0,4
+6,11,Fulham FC,6,2,2,2,7,8,-1,8,DLWWL,Mid-table,8.0,-3
+6,12,Leeds United FC,6,2,2,2,6,9,-3,8,LDLWD,Mid-table,12.0,0
+6,13,Brentford FC,6,2,1,3,9,11,-2,7,WLDLW,Mid-table,17.0,4
+6,14,Manchester United FC,6,2,1,3,7,11,-4,7,DWLWL,Mid-table,11.0,-3
+6,15,Newcastle United FC,6,1,3,2,4,5,-1,6,LDWDL,Survival battle,13.0,-2
+6,16,Aston Villa FC,6,1,3,2,4,6,-2,6,LLDDW,Survival battle,18.0,2
+6,17,Nottingham Forest FC,6,1,2,3,5,10,-5,5,DLLDL,Survival battle,15.0,-2
+6,18,Burnley FC,6,1,1,4,6,13,-7,4,WLLDL,Relegation zone,16.0,-2
+6,19,West Ham United FC,6,1,1,4,6,14,-8,4,LWLLD,Relegation zone,19.0,0
+6,20,Wolverhampton Wanderers FC,6,0,1,5,4,13,-9,1,LLLLD,Relegation zone,20.0,0
+7,1,Arsenal FC,7,5,1,1,14,3,11,16,LWDWW,Champions League,2.0,1
+7,2,Liverpool FC,7,5,0,2,13,9,4,15,WWWLL,Champions League,1.0,-1
+7,3,Tottenham Hotspur FC,7,4,2,1,13,5,8,14,LWDDW,Champions League,4.0,1
+7,4,AFC Bournemouth,7,4,2,1,11,8,3,14,WWDDW,Champions League,6.0,2
+7,5,Manchester City FC,7,4,1,2,15,6,9,13,LWDWW,European chase,7.0,2
+7,6,Crystal Palace FC,7,3,3,1,9,5,4,12,WDWWL,European chase,3.0,-3
+7,7,Chelsea FC,7,3,2,2,13,9,4,11,WDLLW,Top-half race,8.0,1
+7,8,Everton FC,7,3,2,2,9,7,2,11,WDLDW,Top-half race,9.0,1
+7,9,Sunderland AFC,7,3,2,2,7,6,1,11,WDDWL,Top-half race,5.0,-4
+7,10,Manchester United FC,7,3,1,3,9,11,-2,10,WLWLW,Top-half race,14.0,4
+7,11,Newcastle United FC,7,2,3,2,6,5,1,9,DWDLW,Mid-table,15.0,4
+7,12,Brighton & Hove Albion FC,7,2,3,2,10,10,0,9,WLDWD,Mid-table,10.0,-2
+7,13,Aston Villa FC,7,2,3,2,6,7,-1,9,LDDWW,Mid-table,16.0,3
+7,14,Fulham FC,7,2,2,3,8,11,-3,8,LWWLL,Mid-table,11.0,-3
+7,15,Leeds United FC,7,2,2,3,7,11,-4,8,DLWDL,Survival battle,12.0,-3
+7,16,Brentford FC,7,2,1,4,9,12,-3,7,LDLWL,Survival battle,13.0,-3
+7,17,Nottingham Forest FC,7,1,2,4,5,12,-7,5,LLDLL,Survival battle,17.0,0
+7,18,Burnley FC,7,1,1,5,7,15,-8,4,LLDLL,Relegation zone,18.0,0
+7,19,West Ham United FC,7,1,1,5,6,16,-10,4,WLLDL,Relegation zone,19.0,0
+7,20,Wolverhampton Wanderers FC,7,0,2,5,5,14,-9,2,LLLDD,Relegation zone,20.0,0
+8,1,Arsenal FC,8,6,1,1,15,3,12,19,WDWWW,Champions League,1.0,0
+8,2,Manchester City FC,8,5,1,2,17,6,11,16,WDWWW,Champions League,5.0,3
+8,3,AFC Bournemouth,8,4,3,1,14,11,3,15,WDDWD,Champions League,4.0,1
+8,4,Liverpool FC,8,5,0,3,14,11,3,15,WWLLL,Champions League,2.0,-2
+8,5,Chelsea FC,8,4,2,2,16,9,7,14,DLLWW,European chase,7.0,2
+8,6,Tottenham Hotspur FC,8,4,2,2,14,7,7,14,WDDWL,European chase,3.0,-3
+8,7,Sunderland AFC,8,4,2,2,9,6,3,14,DDWLW,Top-half race,9.0,2
+8,8,Crystal Palace FC,8,3,4,1,12,8,4,13,DWWLD,Top-half race,6.0,-2
+8,9,Manchester United FC,8,4,1,3,11,12,-1,13,LWLWW,Top-half race,10.0,1
+8,10,Brighton & Hove Albion FC,8,3,3,2,12,11,1,12,LDWDW,Top-half race,12.0,2
+8,11,Aston Villa FC,8,3,3,2,8,8,0,12,DDWWW,Mid-table,13.0,2
+8,12,Everton FC,8,3,2,3,9,9,0,11,DLDWL,Mid-table,8.0,-4
+8,13,Brentford FC,8,3,1,4,11,12,-1,10,DLWLW,Mid-table,16.0,3
+8,14,Newcastle United FC,8,2,3,3,7,7,0,9,WDLWL,Mid-table,11.0,-3
+8,15,Fulham FC,8,2,2,4,8,12,-4,8,WWLLL,Survival battle,14.0,-1
+8,16,Leeds United FC,8,2,2,4,7,13,-6,8,LWDLL,Survival battle,15.0,-1
+8,17,Burnley FC,8,2,1,5,9,15,-6,7,LDLLW,Survival battle,18.0,1
+8,18,Nottingham Forest FC,8,1,2,5,5,15,-10,5,LDLLL,Relegation zone,17.0,-1
+8,19,West Ham United FC,8,1,1,6,6,18,-12,4,LLDLL,Relegation zone,19.0,0
+8,20,Wolverhampton Wanderers FC,8,0,2,6,5,16,-11,2,LLDDL,Relegation zone,20.0,0
+9,1,Arsenal FC,9,7,1,1,16,3,13,22,DWWWW,Champions League,1.0,0
+9,2,AFC Bournemouth,9,5,3,1,16,11,5,18,DDWDW,Champions League,3.0,1
+9,3,Tottenham Hotspur FC,9,5,2,2,17,7,10,17,DDWLW,Champions League,6.0,3
+9,4,Sunderland AFC,9,5,2,2,11,7,4,17,DWLWW,Champions League,7.0,3
+9,5,Manchester City FC,9,5,1,3,17,7,10,16,DWWWL,European chase,2.0,-3
+9,6,Manchester United FC,9,5,1,3,15,14,1,16,WLWWW,European chase,9.0,3
+9,7,Liverpool FC,9,5,0,4,16,14,2,15,WLLLL,Top-half race,4.0,-3
+9,8,Aston Villa FC,9,4,3,2,9,8,1,15,DWWWW,Top-half race,11.0,3
+9,9,Chelsea FC,9,4,2,3,17,11,6,14,LLWWL,Top-half race,5.0,-4
+9,10,Crystal Palace FC,9,3,4,2,12,9,3,13,WWLDL,Top-half race,8.0,-2
+9,11,Brentford FC,9,4,1,4,14,14,0,13,LWLWW,Mid-table,13.0,2
+9,12,Newcastle United FC,9,3,3,3,9,8,1,12,DLWLW,Mid-table,14.0,2
+9,13,Brighton & Hove Albion FC,9,3,3,3,14,15,-1,12,DWDWL,Mid-table,10.0,-3
+9,14,Everton FC,9,3,2,4,9,12,-3,11,LDWLL,Mid-table,12.0,-2
+9,15,Leeds United FC,9,3,2,4,9,14,-5,11,WDLLW,Survival battle,16.0,1
+9,16,Burnley FC,9,3,1,5,12,17,-5,10,DLLWW,Survival battle,17.0,1
+9,17,Fulham FC,9,2,2,5,9,14,-5,8,WLLLL,Survival battle,15.0,-2
+9,18,Nottingham Forest FC,9,1,2,6,5,17,-12,5,DLLLL,Relegation zone,18.0,0
+9,19,West Ham United FC,9,1,1,7,7,20,-13,4,LDLLL,Relegation zone,19.0,0
+9,20,Wolverhampton Wanderers FC,9,0,2,7,7,19,-12,2,LDDLL,Relegation zone,20.0,0
+10,1,Arsenal FC,10,8,1,1,18,3,15,25,WWWWW,Champions League,1.0,0
+10,2,Manchester City FC,10,6,1,3,20,8,12,19,WWWLW,Champions League,5.0,3
+10,3,Liverpool FC,10,6,0,4,18,14,4,18,LLLLW,Champions League,7.0,4
+10,4,Sunderland AFC,10,5,3,2,12,8,4,18,WLWWD,Champions League,4.0,0
+10,5,AFC Bournemouth,10,5,3,2,17,14,3,18,DWDWL,European chase,2.0,-3
+10,6,Tottenham Hotspur FC,10,5,2,3,17,8,9,17,DWLWL,European chase,3.0,-3
+10,7,Chelsea FC,10,5,2,3,18,11,7,17,LWWLW,Top-half race,9.0,2
+10,8,Manchester United FC,10,5,2,3,17,16,1,17,LWWWD,Top-half race,6.0,-2
+10,9,Crystal Palace FC,10,4,4,2,14,9,5,16,WLDLW,Top-half race,10.0,1
+10,10,Brighton & Hove Albion FC,10,4,3,3,17,15,2,15,WDWLW,Top-half race,13.0,3
+10,11,Aston Villa FC,10,4,3,3,9,10,-1,15,WWWWL,Mid-table,8.0,-3
+10,12,Brentford FC,10,4,1,5,14,16,-2,13,WLWWL,Mid-table,11.0,-1
+10,13,Newcastle United FC,10,3,3,4,10,11,-1,12,LWLWL,Mid-table,12.0,-1
+10,14,Everton FC,10,3,3,4,10,13,-3,12,DWLLD,Mid-table,14.0,0
+10,15,Fulham FC,10,3,2,5,12,14,-2,11,LLLLW,Survival battle,17.0,2
+10,16,Leeds United FC,10,3,2,5,9,17,-8,11,DLLWL,Survival battle,15.0,-1
+10,17,Burnley FC,10,3,1,6,12,19,-7,10,LLWWL,Survival battle,16.0,-1
+10,18,West Ham United FC,10,2,1,7,10,21,-11,7,DLLLW,Relegation zone,19.0,1
+10,19,Nottingham Forest FC,10,1,3,6,7,19,-12,6,LLLLD,Relegation zone,18.0,-1
+10,20,Wolverhampton Wanderers FC,10,0,2,8,7,22,-15,2,DDLLL,Relegation zone,20.0,0
+11,1,Arsenal FC,11,8,2,1,20,5,15,26,WWWWD,Champions League,1.0,0
+11,2,Manchester City FC,11,7,1,3,23,8,15,22,WWLWW,Champions League,2.0,0
+11,3,Chelsea FC,11,6,2,3,21,11,10,20,WWLWW,Champions League,7.0,4
+11,4,Sunderland AFC,11,5,4,2,14,10,4,19,LWWDD,Champions League,4.0,0
+11,5,Tottenham Hotspur FC,11,5,3,3,19,10,9,18,WLWLD,European chase,6.0,1
+11,6,Aston Villa FC,11,5,3,3,13,10,3,18,WWWLW,European chase,11.0,5
+11,7,Manchester United FC,11,5,3,3,19,18,1,18,WWWDD,Top-half race,8.0,1
+11,8,Liverpool FC,11,6,0,5,18,17,1,18,LLLWL,Top-half race,3.0,-5
+11,9,AFC Bournemouth,11,5,3,3,17,18,-1,18,WDWLL,Top-half race,5.0,-4
+11,10,Crystal Palace FC,11,4,5,2,14,9,5,17,LDLWD,Top-half race,9.0,-1
+11,11,Brighton & Hove Albion FC,11,4,4,3,17,15,2,16,DWLWD,Mid-table,10.0,-1
+11,12,Brentford FC,11,5,1,5,17,17,0,16,LWWLW,Mid-table,12.0,0
+11,13,Everton FC,11,4,3,4,12,13,-1,15,WLLDW,Mid-table,14.0,1
+11,14,Newcastle United FC,11,3,3,5,11,14,-3,12,WLWLL,Mid-table,13.0,-1
+11,15,Fulham FC,11,3,2,6,12,16,-4,11,LLLWL,Survival battle,15.0,0
+11,16,Leeds United FC,11,3,2,6,10,20,-10,11,LLWLL,Survival battle,16.0,0
+11,17,Burnley FC,11,3,1,7,14,22,-8,10,LWWLL,Survival battle,17.0,0
+11,18,West Ham United FC,11,3,1,7,13,23,-10,10,LLLWW,Relegation zone,18.0,0
+11,19,Nottingham Forest FC,11,2,3,6,10,20,-10,9,LLLDW,Relegation zone,19.0,0
+11,20,Wolverhampton Wanderers FC,11,0,2,9,7,25,-18,2,DLLLL,Relegation zone,20.0,0
+12,1,Arsenal FC,12,9,2,1,24,6,18,29,WWWDW,Champions League,1.0,0
+12,2,Chelsea FC,12,7,2,3,23,11,12,23,WLWWW,Champions League,3.0,1
+12,3,Manchester City FC,12,7,1,4,24,10,14,22,WLWWL,Champions League,2.0,-1
+12,4,Aston Villa FC,12,6,3,3,15,11,4,21,WWLWW,Champions League,6.0,2
+12,5,Crystal Palace FC,12,5,5,2,16,9,7,20,DLWDW,European chase,10.0,5
+12,6,Brighton & Hove Albion FC,12,5,4,3,19,16,3,19,WLWDW,European chase,11.0,5
+12,7,Sunderland AFC,12,5,4,3,14,11,3,19,WWDDL,Top-half race,4.0,-3
+12,8,AFC Bournemouth,12,5,4,3,19,20,-1,19,DWLLD,Top-half race,9.0,1
+12,9,Tottenham Hotspur FC,12,5,3,4,20,14,6,18,LWLDL,Top-half race,5.0,-4
+12,10,Manchester United FC,12,5,3,4,19,19,0,18,WWDDL,Top-half race,7.0,-3
+12,11,Everton FC,12,5,3,4,13,13,0,18,LLDWW,Mid-table,13.0,2
+12,12,Liverpool FC,12,6,0,6,18,20,-2,18,LLWLL,Mid-table,8.0,-4
+12,13,Brentford FC,12,5,1,6,18,19,-1,16,WWLWL,Mid-table,12.0,-1
+12,14,Newcastle United FC,12,4,3,5,13,15,-2,15,LWLLW,Mid-table,14.0,0
+12,15,Fulham FC,12,4,2,6,13,16,-3,14,LLWLW,Survival battle,15.0,0
+12,16,Nottingham Forest FC,12,3,3,6,13,20,-7,12,LLDWW,Survival battle,19.0,3
+12,17,West Ham United FC,12,3,2,7,15,25,-10,11,LLWWD,Survival battle,18.0,1
+12,18,Leeds United FC,12,3,2,7,11,22,-11,11,LWLLL,Relegation zone,16.0,-2
+12,19,Burnley FC,12,3,1,8,14,24,-10,10,WWLLL,Relegation zone,17.0,-2
+12,20,Wolverhampton Wanderers FC,12,0,2,10,7,27,-20,2,LLLLL,Relegation zone,20.0,0
+13,1,Arsenal FC,13,9,3,1,25,7,18,30,WWDWD,Champions League,1.0,0
+13,2,Manchester City FC,13,8,1,4,27,12,15,25,LWWLW,Champions League,3.0,1
+13,3,Chelsea FC,13,7,3,3,24,12,12,24,LWWWD,Champions League,2.0,-1
+13,4,Aston Villa FC,13,7,3,3,16,11,5,24,WLWWW,Champions League,4.0,0
+13,5,Brighton & Hove Albion FC,13,6,4,3,21,16,5,22,LWDWW,European chase,6.0,1
+13,6,Sunderland AFC,13,6,4,3,17,13,4,22,WDDLW,European chase,7.0,1
+13,7,Manchester United FC,13,6,3,4,21,20,1,21,WDDLW,Top-half race,10.0,3
+13,8,Liverpool FC,13,7,0,6,20,20,0,21,LWLLW,Top-half race,12.0,4
+13,9,Crystal Palace FC,13,5,5,3,17,11,6,20,LWDWL,Top-half race,5.0,-4
+13,10,Brentford FC,13,6,1,6,21,20,1,19,WLWLW,Top-half race,13.0,3
+13,11,AFC Bournemouth,13,5,4,4,21,23,-2,19,WLLDL,Mid-table,8.0,-3
+13,12,Tottenham Hotspur FC,13,5,3,5,21,16,5,18,WLDLL,Mid-table,9.0,-3
+13,13,Newcastle United FC,13,5,3,5,17,16,1,18,WLLWW,Mid-table,14.0,1
+13,14,Everton FC,13,5,3,5,14,17,-3,18,LDWWL,Mid-table,11.0,-3
+13,15,Fulham FC,13,5,2,6,15,17,-2,17,LWLWW,Survival battle,15.0,0
+13,16,Nottingham Forest FC,13,3,3,7,13,22,-9,12,LDWWL,Survival battle,16.0,0
+13,17,West Ham United FC,13,3,2,8,15,27,-12,11,LWWDL,Survival battle,17.0,0
+13,18,Leeds United FC,13,3,2,8,13,25,-12,11,WLLLL,Relegation zone,18.0,0
+13,19,Burnley FC,13,3,1,9,15,27,-12,10,WLLLL,Relegation zone,19.0,0
+13,20,Wolverhampton Wanderers FC,13,0,2,11,7,28,-21,2,LLLLL,Relegation zone,20.0,0
+14,1,Arsenal FC,14,10,3,1,27,7,20,33,WDWDW,Champions League,1.0,0
+14,2,Manchester City FC,14,9,1,4,32,16,16,28,WWLWW,Champions League,2.0,0
+14,3,Aston Villa FC,14,8,3,3,20,14,6,27,LWWWW,Champions League,4.0,1
+14,4,Chelsea FC,14,7,3,4,25,15,10,24,WWWDL,Champions League,3.0,-1
+14,5,Crystal Palace FC,14,6,5,3,18,11,7,23,WDWLW,European chase,9.0,4
+14,6,Sunderland AFC,14,6,5,3,18,14,4,23,DDLWD,European chase,6.0,0
+14,7,Brighton & Hove Albion FC,14,6,4,4,24,20,4,22,WDWWL,Top-half race,5.0,-2
+14,8,Manchester United FC,14,6,4,4,22,21,1,22,DDLWD,Top-half race,7.0,-1
+14,9,Liverpool FC,14,7,1,6,21,21,0,22,WLLWD,Top-half race,8.0,-1
+14,10,Everton FC,14,6,3,5,15,17,-2,21,DWWLW,Top-half race,14.0,4
+14,11,Tottenham Hotspur FC,14,5,4,5,23,18,5,19,LDLLD,Mid-table,12.0,1
+14,12,Newcastle United FC,14,5,4,5,19,18,1,19,LLWWD,Mid-table,13.0,1
+14,13,Brentford FC,14,6,1,7,21,22,-1,19,LWLWL,Mid-table,10.0,-3
+14,14,AFC Bournemouth,14,5,4,5,21,24,-3,19,LLDLL,Mid-table,11.0,-3
+14,15,Fulham FC,14,5,2,7,19,22,-3,17,WLWWL,Survival battle,15.0,0
+14,16,Nottingham Forest FC,14,4,3,7,14,22,-8,15,DWWLW,Survival battle,16.0,0
+14,17,Leeds United FC,14,4,2,8,16,26,-10,14,LLLLW,Survival battle,18.0,1
+14,18,West Ham United FC,14,3,3,8,16,28,-12,12,WWDLD,Relegation zone,17.0,-1
+14,19,Burnley FC,14,3,1,10,15,28,-13,10,LLLLL,Relegation zone,19.0,0
+14,20,Wolverhampton Wanderers FC,14,0,2,12,7,29,-22,2,LLLLL,Relegation zone,20.0,0
+15,1,Arsenal FC,15,10,3,2,28,9,19,33,DWDWL,Champions League,1.0,0
+15,2,Manchester City FC,15,10,1,4,35,16,19,31,WLWWW,Champions League,2.0,0
+15,3,Aston Villa FC,15,9,3,3,22,15,7,30,WWWWW,Champions League,3.0,0
+15,4,Crystal Palace FC,15,7,5,3,20,12,8,26,DWLWW,Champions League,5.0,1
+15,5,Chelsea FC,15,7,4,4,25,15,10,25,WWDLD,European chase,4.0,-1
+15,6,Manchester United FC,15,7,4,4,26,22,4,25,DLWDW,European chase,8.0,2
+15,7,Everton FC,15,7,3,5,18,17,1,24,WWLWW,Top-half race,10.0,3
+15,8,Brighton & Hove Albion FC,15,6,5,4,25,21,4,23,DWWLD,Top-half race,7.0,-1
+15,9,Sunderland AFC,15,6,5,4,18,17,1,23,DLWDL,Top-half race,6.0,-3
+15,10,Liverpool FC,15,7,2,6,24,24,0,23,LLWDD,Top-half race,9.0,-1
+15,11,Tottenham Hotspur FC,15,6,4,5,25,18,7,22,DLLDW,Mid-table,11.0,0
+15,12,Newcastle United FC,15,6,4,5,21,19,2,22,LWWDW,Mid-table,12.0,0
+15,13,AFC Bournemouth,15,5,5,5,21,24,-3,20,LDLLD,Mid-table,14.0,1
+15,14,Brentford FC,15,6,1,8,21,24,-3,19,WLWLL,Mid-table,13.0,-1
+15,15,Fulham FC,15,5,2,8,20,24,-4,17,LWWLL,Survival battle,15.0,0
+15,16,Leeds United FC,15,4,3,8,19,29,-10,15,LLLWD,Survival battle,17.0,1
+15,17,Nottingham Forest FC,15,4,3,8,14,25,-11,15,WWLWL,Survival battle,16.0,-1
+15,18,West Ham United FC,15,3,4,8,17,29,-12,13,WDLDD,Relegation zone,18.0,0
+15,19,Burnley FC,15,3,1,11,16,30,-14,10,LLLLL,Relegation zone,19.0,0
+15,20,Wolverhampton Wanderers FC,15,0,2,13,8,33,-25,2,LLLLL,Relegation zone,20.0,0
+16,1,Arsenal FC,16,11,3,2,30,10,20,36,WDWLW,Champions League,1.0,0
+16,2,Manchester City FC,16,11,1,4,38,16,22,34,LWWWW,Champions League,2.0,0
+16,3,Aston Villa FC,16,10,3,3,25,17,8,33,WWWWW,Champions League,3.0,0
+16,4,Chelsea FC,16,8,4,4,27,15,12,28,WDLDW,Champions League,5.0,1
+16,5,Crystal Palace FC,16,7,5,4,20,15,5,26,WLWWL,European chase,4.0,-1
+16,6,Manchester United FC,16,7,5,4,30,26,4,26,LWDWD,European chase,6.0,0
+16,7,Liverpool FC,16,8,2,6,26,24,2,26,LWDDW,Top-half race,10.0,3
+16,8,Sunderland AFC,16,7,5,4,19,17,2,26,LWDLW,Top-half race,9.0,1
+16,9,Everton FC,16,7,3,6,18,19,-1,24,WLWWL,Top-half race,7.0,-2
+16,10,Brighton & Hove Albion FC,16,6,5,5,25,23,2,23,WWLDL,Top-half race,8.0,-2
+16,11,Tottenham Hotspur FC,16,6,4,6,25,21,4,22,LLDWL,Mid-table,11.0,0
+16,12,Newcastle United FC,16,6,4,6,21,20,1,22,WWDWL,Mid-table,12.0,0
+16,13,AFC Bournemouth,16,5,6,5,25,28,-3,21,DLLDD,Mid-table,13.0,0
+16,14,Fulham FC,16,6,2,8,23,26,-3,20,WWLLW,Mid-table,15.0,1
+16,15,Brentford FC,16,6,2,8,22,25,-3,20,LWLLD,Survival battle,14.0,-1
+16,16,Nottingham Forest FC,16,5,3,8,17,25,-8,18,WLWLW,Survival battle,17.0,1
+16,17,Leeds United FC,16,4,4,8,20,30,-10,16,LLWDD,Survival battle,16.0,-1
+16,18,West Ham United FC,16,3,4,9,19,32,-13,13,DLDDL,Relegation zone,18.0,0
+16,19,Burnley FC,16,3,1,12,18,33,-15,10,LLLLL,Relegation zone,19.0,0
+16,20,Wolverhampton Wanderers FC,16,0,2,14,9,35,-26,2,LLLLL,Relegation zone,20.0,0
+17,1,Arsenal FC,17,12,3,2,31,10,21,39,DWLWW,Champions League,1.0,0
+17,2,Manchester City FC,17,12,1,4,41,16,25,37,WWWWW,Champions League,2.0,0
+17,3,Aston Villa FC,17,11,3,3,27,18,9,36,WWWWW,Champions League,3.0,0
+17,4,Chelsea FC,17,8,5,4,29,17,12,29,DLDWD,Champions League,4.0,0
+17,5,Liverpool FC,17,9,2,6,28,25,3,29,WDDWW,European chase,7.0,2
+17,6,Sunderland AFC,17,7,6,4,19,17,2,27,WDLWD,European chase,8.0,2
+17,7,Manchester United FC,17,7,5,5,31,28,3,26,WDWDL,Top-half race,6.0,-1
+17,8,Crystal Palace FC,17,7,5,5,21,19,2,26,LWWLL,Top-half race,5.0,-3
+17,9,Brighton & Hove Albion FC,17,6,6,5,25,23,2,24,WLDLD,Top-half race,10.0,1
+17,10,Everton FC,17,7,3,7,18,20,-2,24,LWWLL,Top-half race,9.0,-1
+17,11,Newcastle United FC,17,6,5,6,23,22,1,23,WDWLD,Mid-table,12.0,1
+17,12,Brentford FC,17,7,2,8,24,25,-1,23,WLLDW,Mid-table,15.0,3
+17,13,Fulham FC,17,7,2,8,24,26,-2,23,WLLWW,Mid-table,14.0,1
+17,14,Tottenham Hotspur FC,17,6,4,7,26,23,3,22,LDWLL,Mid-table,11.0,-3
+17,15,AFC Bournemouth,17,5,7,5,26,29,-3,22,LLDDD,Survival battle,13.0,-2
+17,16,Leeds United FC,17,5,4,8,24,31,-7,19,LWDDW,Survival battle,17.0,1
+17,17,Nottingham Forest FC,17,5,3,9,17,26,-9,18,LWLWL,Survival battle,16.0,-1
+17,18,West Ham United FC,17,3,4,10,19,35,-16,13,LDDLL,Relegation zone,18.0,0
+17,19,Burnley FC,17,3,2,12,19,34,-15,11,LLLLD,Relegation zone,19.0,0
+17,20,Wolverhampton Wanderers FC,17,0,2,15,9,37,-28,2,LLLLL,Relegation zone,20.0,0
+18,1,Arsenal FC,18,13,3,2,33,11,22,42,WLWWW,Champions League,1.0,0
+18,2,Manchester City FC,18,13,1,4,43,17,26,40,WWWWW,Champions League,2.0,0
+18,3,Aston Villa FC,18,12,3,3,29,19,10,39,WWWWW,Champions League,3.0,0
+18,4,Liverpool FC,18,10,2,6,30,26,4,32,DDWWW,Champions League,5.0,1
+18,5,Chelsea FC,18,8,5,5,30,19,11,29,LDWDL,European chase,4.0,-1
+18,6,Manchester United FC,18,8,5,5,32,28,4,29,DWDLW,European chase,7.0,1
+18,7,Sunderland AFC,18,7,7,4,20,18,2,28,DLWDD,Top-half race,6.0,-1
+18,8,Brentford FC,18,8,2,8,28,26,2,26,LLDWW,Top-half race,12.0,4
+18,9,Crystal Palace FC,18,7,5,6,21,20,1,26,WWLLL,Top-half race,8.0,-1
+18,10,Fulham FC,18,8,2,8,25,26,-1,26,LLWWW,Top-half race,13.0,3
+18,11,Tottenham Hotspur FC,18,7,4,7,27,23,4,25,DWLLW,Mid-table,14.0,3
+18,12,Everton FC,18,7,4,7,18,20,-2,25,WWLLD,Mid-table,10.0,-2
+18,13,Brighton & Hove Albion FC,18,6,6,6,26,25,1,24,LDLDL,Mid-table,9.0,-4
+18,14,Newcastle United FC,18,6,5,7,23,23,0,23,DWLDL,Mid-table,11.0,-3
+18,15,AFC Bournemouth,18,5,7,6,27,33,-6,22,LDDDL,Survival battle,15.0,0
+18,16,Leeds United FC,18,5,5,8,25,32,-7,20,WDDWD,Survival battle,16.0,0
+18,17,Nottingham Forest FC,18,5,3,10,18,28,-10,18,WLWLL,Survival battle,17.0,0
+18,18,West Ham United FC,18,3,4,11,19,36,-17,13,DDLLL,Relegation zone,18.0,0
+18,19,Burnley FC,18,3,3,12,19,34,-15,12,LLLDD,Relegation zone,19.0,0
+18,20,Wolverhampton Wanderers FC,18,0,2,16,10,39,-29,2,LLLLL,Relegation zone,20.0,0
+19,1,Arsenal FC,19,14,3,2,37,12,25,45,LWWWW,Champions League,1.0,0
+19,2,Manchester City FC,19,13,2,4,43,17,26,41,WWWWD,Champions League,2.0,0
+19,3,Aston Villa FC,19,12,3,4,30,23,7,39,WWWWL,Champions League,3.0,0
+19,4,Liverpool FC,19,10,3,6,30,26,4,33,DWWWD,Champions League,4.0,0
+19,5,Chelsea FC,19,8,6,5,32,21,11,30,DWDLD,European chase,5.0,0
+19,6,Manchester United FC,19,8,6,5,33,29,4,30,WDLWD,European chase,6.0,0
+19,7,Sunderland AFC,19,7,8,4,20,18,2,29,LWDDD,Top-half race,7.0,0
+19,8,Everton FC,19,8,4,7,20,20,0,28,WLLDW,Top-half race,12.0,4
+19,9,Brentford FC,19,8,3,8,28,26,2,27,LDWWD,Top-half race,8.0,-1
+19,10,Crystal Palace FC,19,7,6,6,22,21,1,27,WLLLD,Top-half race,9.0,-1
+19,11,Fulham FC,19,8,3,8,26,27,-1,27,LWWWD,Mid-table,10.0,-1
+19,12,Tottenham Hotspur FC,19,7,5,7,27,23,4,26,WLLWD,Mid-table,11.0,-1
+19,13,Newcastle United FC,19,7,5,7,26,24,2,26,WLDLW,Mid-table,14.0,1
+19,14,Brighton & Hove Albion FC,19,6,7,6,28,27,1,25,DLDLD,Mid-table,13.0,-1
+19,15,AFC Bournemouth,19,5,8,6,29,35,-6,23,DDDLD,Survival battle,15.0,0
+19,16,Leeds United FC,19,5,6,8,25,32,-7,21,DDWDD,Survival battle,16.0,0
+19,17,Nottingham Forest FC,19,5,3,11,18,30,-12,18,LWLLL,Survival battle,17.0,0
+19,18,West Ham United FC,19,3,5,11,21,38,-17,14,DLLLD,Relegation zone,18.0,0
+19,19,Burnley FC,19,3,3,13,20,37,-17,12,LLDDL,Relegation zone,19.0,0
+19,20,Wolverhampton Wanderers FC,19,0,3,16,11,40,-29,3,LLLLD,Relegation zone,20.0,0
+20,1,Arsenal FC,20,15,3,2,40,14,26,48,WWWWW,Champions League,1.0,0
+20,2,Manchester City FC,20,13,3,4,44,18,26,42,WWWDD,Champions League,2.0,0
+20,3,Aston Villa FC,20,13,3,4,33,24,9,42,WWWLW,Champions League,3.0,0
+20,4,Liverpool FC,20,10,4,6,32,28,4,34,WWWDD,Champions League,4.0,0
+20,5,Chelsea FC,20,8,7,5,33,22,11,31,WDLDD,European chase,5.0,0
+20,6,Manchester United FC,20,8,7,5,34,30,4,31,DLWDD,European chase,6.0,0
+20,7,Brentford FC,20,9,3,8,32,28,4,30,DWWDW,Top-half race,9.0,2
+20,8,Sunderland AFC,20,7,9,4,21,19,2,30,WDDDD,Top-half race,7.0,-1
+20,9,Newcastle United FC,20,8,5,7,28,24,4,29,LDLWW,Top-half race,13.0,4
+20,10,Brighton & Hove Albion FC,20,7,7,6,30,27,3,28,LDLDW,Top-half race,14.0,4
+20,11,Fulham FC,20,8,4,8,28,29,-1,28,WWWDD,Mid-table,11.0,0
+20,12,Everton FC,20,8,4,8,22,24,-2,28,LLDWL,Mid-table,8.0,-4
+20,13,Tottenham Hotspur FC,20,7,6,7,28,24,4,27,LLWDD,Mid-table,12.0,-1
+20,14,Crystal Palace FC,20,7,6,7,22,23,-1,27,LLLDL,Mid-table,10.0,-4
+20,15,AFC Bournemouth,20,5,8,7,31,38,-7,23,DDLDL,Survival battle,15.0,0
+20,16,Leeds United FC,20,5,7,8,26,33,-7,22,DWDDD,Survival battle,16.0,0
+20,17,Nottingham Forest FC,20,5,3,12,19,33,-14,18,WLLLL,Survival battle,17.0,0
+20,18,West Ham United FC,20,3,5,12,21,41,-20,14,LLLDL,Relegation zone,18.0,0
+20,19,Burnley FC,20,3,3,14,20,39,-19,12,LDDLL,Relegation zone,19.0,0
+20,20,Wolverhampton Wanderers FC,20,1,3,16,14,40,-26,6,LLLDW,Relegation zone,20.0,0
+21,1,Arsenal FC,21,15,4,2,40,14,26,49,WWWWD,Champions League,1.0,0
+21,2,Manchester City FC,21,13,4,4,45,19,26,43,WWDDD,Champions League,2.0,0
+21,3,Aston Villa FC,21,13,4,4,33,24,9,43,WWLWD,Champions League,3.0,0
+21,4,Liverpool FC,21,10,5,6,32,28,4,35,WWDDD,Champions League,4.0,0
+21,5,Brentford FC,21,10,3,8,35,28,7,33,WWDWW,European chase,7.0,2
+21,6,Newcastle United FC,21,9,5,7,32,27,5,32,DLWWW,European chase,9.0,3
+21,7,Manchester United FC,21,8,8,5,36,32,4,32,LWDDD,Top-half race,6.0,-1
+21,8,Chelsea FC,21,8,7,6,34,24,10,31,DLDDL,Top-half race,5.0,-3
+21,9,Fulham FC,21,9,4,8,30,30,0,31,WWDDW,Top-half race,11.0,2
+21,10,Sunderland AFC,21,7,9,5,21,22,-1,30,DDDDL,Top-half race,8.0,-2
+21,11,Brighton & Hove Albion FC,21,7,8,6,31,28,3,29,DLDWD,Mid-table,10.0,-1
+21,12,Everton FC,21,8,5,8,23,25,-2,29,LDWLD,Mid-table,12.0,0
+21,13,Crystal Palace FC,21,7,7,7,22,23,-1,28,LLDLD,Mid-table,14.0,1
+21,14,Tottenham Hotspur FC,21,7,6,8,30,27,3,27,LWDDL,Mid-table,13.0,-1
+21,15,AFC Bournemouth,21,6,8,7,34,40,-6,26,DLDLW,Survival battle,15.0,0
+21,16,Leeds United FC,21,5,7,9,29,37,-8,22,WDDDL,Survival battle,16.0,0
+21,17,Nottingham Forest FC,21,6,3,12,21,34,-13,21,LLLLW,Survival battle,17.0,0
+21,18,West Ham United FC,21,3,5,13,22,43,-21,14,LLDLL,Relegation zone,18.0,0
+21,19,Burnley FC,21,3,4,14,22,41,-19,13,DDLLD,Relegation zone,19.0,0
+21,20,Wolverhampton Wanderers FC,21,1,4,16,15,41,-26,7,LLDWD,Relegation zone,20.0,0
+22,1,Arsenal FC,22,15,5,2,40,14,26,50,WWWDD,Champions League,1.0,0
+22,2,Manchester City FC,22,13,4,5,45,21,24,43,WDDDL,Champions League,2.0,0
+22,3,Aston Villa FC,22,13,4,5,33,25,8,43,WLWDL,Champions League,3.0,0
+22,4,Liverpool FC,22,10,6,6,33,29,4,36,WDDDD,Champions League,4.0,0
+22,5,Manchester United FC,22,9,8,5,38,32,6,35,WDDDW,European chase,7.0,2
+22,6,Chelsea FC,22,9,7,6,36,24,12,34,LDDLW,European chase,8.0,2
+22,7,Brentford FC,22,10,3,9,35,30,5,33,WDWWL,Top-half race,5.0,-2
+22,8,Newcastle United FC,22,9,6,7,32,27,5,33,LWWWD,Top-half race,6.0,-2
+22,9,Sunderland AFC,22,8,9,5,23,23,0,33,DDDLW,Top-half race,10.0,1
+22,10,Everton FC,22,9,5,8,24,25,-1,32,DWLDW,Top-half race,12.0,2
+22,11,Fulham FC,22,9,4,9,30,31,-1,31,WDDWL,Mid-table,9.0,-2
+22,12,Brighton & Hove Albion FC,22,7,9,6,32,29,3,30,LDWDD,Mid-table,11.0,-1
+22,13,Crystal Palace FC,22,7,7,8,23,25,-2,28,LDLDL,Mid-table,13.0,0
+22,14,Tottenham Hotspur FC,22,7,6,9,31,29,2,27,WDDLL,Mid-table,14.0,0
+22,15,AFC Bournemouth,22,6,9,7,35,41,-6,27,LDLWD,Survival battle,15.0,0
+22,16,Leeds United FC,22,6,7,9,30,37,-7,25,DDDLW,Survival battle,16.0,0
+22,17,Nottingham Forest FC,22,6,4,12,21,34,-13,22,LLLWD,Survival battle,17.0,0
+22,18,West Ham United FC,22,4,5,13,24,44,-20,17,LDLLW,Relegation zone,18.0,0
+22,19,Burnley FC,22,3,5,14,23,42,-19,14,DLLDD,Relegation zone,19.0,0
+22,20,Wolverhampton Wanderers FC,22,1,5,16,15,41,-26,8,LDWDD,Relegation zone,20.0,0
+23,1,Arsenal FC,23,15,5,3,42,17,25,50,WWDDL,Champions League,1.0,0
+23,2,Manchester City FC,23,14,4,5,47,21,26,46,DDDLW,Champions League,2.0,0
+23,3,Aston Villa FC,23,14,4,5,35,25,10,46,LWDLW,Champions League,3.0,0
+23,4,Manchester United FC,23,10,8,5,41,34,7,38,DDDWW,Champions League,5.0,1
+23,5,Chelsea FC,23,10,7,6,39,25,14,37,DDLWW,European chase,6.0,1
+23,6,Liverpool FC,23,10,6,7,35,32,3,36,DDDDL,European chase,4.0,-2
+23,7,Fulham FC,23,10,4,9,32,32,0,34,DDWLW,Top-half race,11.0,4
+23,8,Brentford FC,23,10,3,10,35,32,3,33,DWWLL,Top-half race,7.0,-1
+23,9,Newcastle United FC,23,9,6,8,32,29,3,33,WWWDL,Top-half race,8.0,-1
+23,10,Everton FC,23,9,6,8,25,26,-1,33,WLDWD,Top-half race,10.0,0
+23,11,Sunderland AFC,23,8,9,6,24,26,-2,33,DDLWL,Mid-table,9.0,-2
+23,12,Brighton & Hove Albion FC,23,7,9,7,33,31,2,30,DWDDL,Mid-table,12.0,0
+23,13,AFC Bournemouth,23,7,9,7,38,43,-5,30,DLWDW,Mid-table,15.0,2
+23,14,Tottenham Hotspur FC,23,7,7,9,33,31,2,28,DDLLD,Mid-table,14.0,0
+23,15,Crystal Palace FC,23,7,7,9,24,28,-4,28,DLDLL,Survival battle,13.0,-2
+23,16,Leeds United FC,23,6,8,9,31,38,-7,26,DDLWD,Survival battle,16.0,0
+23,17,Nottingham Forest FC,23,7,4,12,23,34,-11,25,LLWDW,Survival battle,17.0,0
+23,18,West Ham United FC,23,5,5,13,27,45,-18,20,DLLWW,Relegation zone,18.0,0
+23,19,Burnley FC,23,3,6,14,25,44,-19,15,LLDDD,Relegation zone,19.0,0
+23,20,Wolverhampton Wanderers FC,23,1,5,17,15,43,-28,8,DWDDL,Relegation zone,20.0,0
+24,1,Arsenal FC,24,16,5,3,46,17,29,53,WDDLW,Champions League,1.0,0
+24,2,Manchester City FC,24,14,5,5,49,23,26,47,DDLWD,Champions League,2.0,0
+24,3,Aston Villa FC,24,14,4,6,35,26,9,46,WDLWL,Champions League,3.0,0
+24,4,Manchester United FC,24,11,8,5,44,36,8,41,DDWWW,Champions League,4.0,0
+24,5,Chelsea FC,24,11,7,6,42,27,15,40,DLWWW,European chase,5.0,0
+24,6,Liverpool FC,24,11,6,7,39,33,6,39,DDDLW,European chase,6.0,0
+24,7,Brentford FC,24,11,3,10,36,32,4,36,WWLLW,Top-half race,8.0,1
+24,8,Sunderland AFC,24,9,9,6,27,26,1,36,DLWLW,Top-half race,11.0,3
+24,9,Fulham FC,24,10,4,10,34,35,-1,34,DWLWL,Top-half race,7.0,-2
+24,10,Everton FC,24,9,7,8,26,27,-1,34,LDWDD,Top-half race,10.0,0
+24,11,Newcastle United FC,24,9,6,9,33,33,0,33,WWDLL,Mid-table,9.0,-2
+24,12,AFC Bournemouth,24,8,9,7,40,43,-3,33,LWDWW,Mid-table,13.0,1
+24,13,Brighton & Hove Albion FC,24,7,10,7,34,32,2,31,WDDLD,Mid-table,12.0,-1
+24,14,Tottenham Hotspur FC,24,7,8,9,35,33,2,29,DLLDD,Mid-table,14.0,0
+24,15,Crystal Palace FC,24,7,8,9,25,29,-4,29,LDLLD,Survival battle,15.0,0
+24,16,Leeds United FC,24,6,8,10,31,42,-11,26,DLWDL,Survival battle,16.0,0
+24,17,Nottingham Forest FC,24,7,5,12,24,35,-11,26,LWDWD,Survival battle,17.0,0
+24,18,West Ham United FC,24,5,5,14,29,48,-19,20,LLWWL,Relegation zone,18.0,0
+24,19,Burnley FC,24,3,6,15,25,47,-22,15,LDDDL,Relegation zone,19.0,0
+24,20,Wolverhampton Wanderers FC,24,1,5,18,15,45,-30,8,WDDLL,Relegation zone,20.0,0
+25,1,Arsenal FC,25,17,5,3,49,17,32,56,DDLWW,Champions League,1.0,0
+25,2,Manchester City FC,25,15,5,5,51,24,27,50,DLWDW,Champions League,2.0,0
+25,3,Aston Villa FC,25,14,5,6,36,27,9,47,DLWLD,Champions League,3.0,0
+25,4,Manchester United FC,25,12,8,5,46,36,10,44,DWWWW,Champions League,4.0,0
+25,5,Chelsea FC,25,12,7,6,45,28,17,43,LWWWW,European chase,5.0,0
+25,6,Liverpool FC,25,11,6,8,40,35,5,39,DDLWL,European chase,6.0,0
+25,7,Brentford FC,25,12,3,10,39,34,5,39,WLLWW,Top-half race,7.0,0
+25,8,Everton FC,25,10,7,8,28,28,0,37,DWDDW,Top-half race,10.0,2
+25,9,Sunderland AFC,25,9,9,7,27,29,-2,36,LWLWL,Top-half race,8.0,-1
+25,10,Fulham FC,25,10,4,11,35,37,-2,34,WLWLL,Top-half race,9.0,-1
+25,11,AFC Bournemouth,25,8,10,7,41,44,-3,34,WDWWD,Mid-table,12.0,1
+25,12,Newcastle United FC,25,9,6,10,35,36,-1,33,WDLLL,Mid-table,11.0,-1
+25,13,Crystal Palace FC,25,8,8,9,26,29,-3,32,DLLDW,Mid-table,15.0,2
+25,14,Brighton & Hove Albion FC,25,7,10,8,34,33,1,31,DDLDL,Mid-table,13.0,-1
+25,15,Tottenham Hotspur FC,25,7,8,10,35,35,0,29,LLDDL,Survival battle,14.0,-1
+25,16,Leeds United FC,25,7,8,10,34,43,-9,29,LWDLW,Survival battle,16.0,0
+25,17,Nottingham Forest FC,25,7,5,13,25,38,-13,26,WDWDL,Survival battle,17.0,0
+25,18,West Ham United FC,25,6,5,14,31,48,-17,23,LWWLW,Relegation zone,18.0,0
+25,19,Burnley FC,25,3,6,16,25,49,-24,15,DDDLL,Relegation zone,19.0,0
+25,20,Wolverhampton Wanderers FC,25,1,5,19,16,48,-32,8,DDLLL,Relegation zone,20.0,0
+26,1,Arsenal FC,26,17,6,3,50,18,32,57,DLWWD,Champions League,1.0,0
+26,2,Manchester City FC,26,16,5,5,54,24,30,53,LWDWW,Champions League,2.0,0
+26,3,Aston Villa FC,26,15,5,6,37,27,10,50,LWLDW,Champions League,3.0,0
+26,4,Manchester United FC,26,12,9,5,47,37,10,45,WWWWD,Champions League,4.0,0
+26,5,Chelsea FC,26,12,8,6,47,30,17,44,WWWWD,European chase,5.0,0
+26,6,Liverpool FC,26,12,6,8,41,35,6,42,DLWLW,European chase,6.0,0
+26,7,Brentford FC,26,12,4,10,40,35,5,40,LLWWD,Top-half race,7.0,0
+26,8,Everton FC,26,10,7,9,29,30,-1,37,WDDWL,Top-half race,8.0,0
+26,9,AFC Bournemouth,26,9,10,7,43,45,-2,37,DWWDW,Top-half race,11.0,2
+26,10,Newcastle United FC,26,10,6,10,37,37,0,36,DLLLW,Top-half race,12.0,2
+26,11,Sunderland AFC,26,9,9,8,27,30,-3,36,WLWLL,Mid-table,9.0,-2
+26,12,Fulham FC,26,10,4,12,35,40,-5,34,LWLLL,Mid-table,10.0,-2
+26,13,Crystal Palace FC,26,8,8,10,28,32,-4,32,LLDWL,Mid-table,13.0,0
+26,14,Brighton & Hove Albion FC,26,7,10,9,34,34,0,31,DLDLL,Mid-table,14.0,0
+26,15,Leeds United FC,26,7,9,10,36,45,-9,30,WDLWD,Survival battle,16.0,1
+26,16,Tottenham Hotspur FC,26,7,8,11,36,37,-1,29,LDDLL,Survival battle,15.0,-1
+26,17,Nottingham Forest FC,26,7,6,13,25,38,-13,27,DWDLD,Survival battle,17.0,0
+26,18,West Ham United FC,26,6,6,14,32,49,-17,24,WWLWD,Relegation zone,18.0,0
+26,19,Burnley FC,26,4,6,16,28,51,-23,18,DDLLW,Relegation zone,19.0,0
+26,20,Wolverhampton Wanderers FC,26,1,6,19,16,48,-32,9,DLLLD,Relegation zone,20.0,0
+27,1,Arsenal FC,27,18,6,3,54,19,35,60,LWWDW,Champions League,1.0,0
+27,2,Manchester City FC,27,17,5,5,56,25,31,56,WDWWW,Champions League,2.0,0
+27,3,Aston Villa FC,27,15,6,6,38,28,10,51,WLDWD,Champions League,3.0,0
+27,4,Manchester United FC,27,13,9,5,48,37,11,48,WWWDW,Champions League,4.0,0
+27,5,Chelsea FC,27,12,9,6,48,31,17,45,WWWDD,European chase,5.0,0
+27,6,Liverpool FC,27,13,6,8,42,35,7,45,LWLWW,European chase,6.0,0
+27,7,Brentford FC,27,12,4,11,40,37,3,40,LWWDL,Top-half race,7.0,0
+27,8,AFC Bournemouth,27,9,11,7,43,45,-2,38,WWDWD,Top-half race,9.0,1
+27,9,Everton FC,27,10,7,10,29,31,-2,37,DDWLL,Top-half race,8.0,-1
+27,10,Fulham FC,27,11,4,12,38,41,-3,37,WLLLW,Top-half race,12.0,2
+27,11,Newcastle United FC,27,10,6,11,38,39,-1,36,LLLWL,Mid-table,10.0,-1
+27,12,Sunderland AFC,27,9,9,9,28,33,-5,36,LWLLL,Mid-table,11.0,-1
+27,13,Crystal Palace FC,27,9,8,10,29,32,-3,35,LDWLW,Mid-table,13.0,0
+27,14,Brighton & Hove Albion FC,27,8,10,9,36,34,2,34,LDLLW,Mid-table,14.0,0
+27,15,Leeds United FC,27,7,10,10,37,46,-9,31,DLWDD,Survival battle,15.0,0
+27,16,Tottenham Hotspur FC,27,7,8,12,37,41,-4,29,DDLLL,Survival battle,16.0,0
+27,17,Nottingham Forest FC,27,7,6,14,25,39,-14,27,WDLDL,Survival battle,17.0,0
+27,18,West Ham United FC,27,6,7,14,32,49,-17,25,WLWDD,Relegation zone,18.0,0
+27,19,Burnley FC,27,4,7,16,29,52,-23,19,DLLWD,Relegation zone,19.0,0
+27,20,Wolverhampton Wanderers FC,27,1,6,20,16,49,-33,9,LLLDL,Relegation zone,20.0,0
+28,1,Arsenal FC,28,19,6,3,56,20,36,63,WWDWW,Champions League,1.0,0
+28,2,Manchester City FC,28,18,5,5,57,25,32,59,DWWWW,Champions League,2.0,0
+28,3,Manchester United FC,28,14,9,5,50,38,12,51,WWDWW,Champions League,4.0,1
+28,4,Aston Villa FC,28,15,6,7,38,30,8,51,LDWDL,Champions League,3.0,-1
+28,5,Liverpool FC,28,14,6,8,47,37,10,48,WLWWW,European chase,6.0,1
+28,6,Chelsea FC,28,12,9,7,49,33,16,45,WWDDL,European chase,5.0,-1
+28,7,Brentford FC,28,13,4,11,44,40,4,43,WWDLW,Top-half race,7.0,0
+28,8,Everton FC,28,11,7,10,32,33,-1,40,DWLLW,Top-half race,9.0,1
+28,9,Fulham FC,28,12,4,12,40,42,-2,40,LLLWW,Top-half race,10.0,1
+28,10,AFC Bournemouth,28,9,12,7,44,46,-2,39,WDWDD,Top-half race,8.0,-2
+28,11,Brighton & Hove Albion FC,28,9,10,9,38,35,3,37,DLLWW,Mid-table,14.0,3
+28,12,Sunderland AFC,28,9,10,9,29,34,-5,37,WLLLD,Mid-table,12.0,0
+28,13,Newcastle United FC,28,10,6,12,40,42,-2,36,LLWLL,Mid-table,11.0,-2
+28,14,Crystal Palace FC,28,9,8,11,30,34,-4,35,DWLWL,Mid-table,13.0,-1
+28,15,Leeds United FC,28,7,10,11,37,47,-10,31,LWDDL,Survival battle,15.0,0
+28,16,Tottenham Hotspur FC,28,7,8,13,38,43,-5,29,DLLLL,Survival battle,16.0,0
+28,17,Nottingham Forest FC,28,7,6,15,26,41,-15,27,DLDLL,Survival battle,17.0,0
+28,18,West Ham United FC,28,6,7,15,34,54,-20,25,LWDDL,Relegation zone,18.0,0
+28,19,Burnley FC,28,4,7,17,32,56,-24,19,LLWDL,Relegation zone,19.0,0
+28,20,Wolverhampton Wanderers FC,28,2,6,20,18,49,-31,12,LLDLW,Relegation zone,20.0,0
+29,1,Arsenal FC,29,20,6,3,57,20,37,66,WDWWW,Champions League,1.0,0
+29,2,Manchester City FC,29,18,6,5,59,27,32,60,WWWWD,Champions League,2.0,0
+29,3,Manchester United FC,29,14,9,6,51,40,11,51,WDWWL,Champions League,3.0,0
+29,4,Aston Villa FC,29,15,6,8,39,34,5,51,DWDLL,Champions League,4.0,0
+29,5,Chelsea FC,29,13,9,7,53,34,19,48,WDDLW,European chase,6.0,1
+29,6,Liverpool FC,29,14,6,9,48,39,9,48,LWWWL,European chase,5.0,-1
+29,7,Brentford FC,29,13,5,11,44,40,4,44,WDLWD,Top-half race,7.0,0
+29,8,Everton FC,29,12,7,10,34,33,1,43,WLLWW,Top-half race,8.0,0
+29,9,AFC Bournemouth,29,9,13,7,44,46,-2,40,DWDDD,Top-half race,10.0,1
+29,10,Fulham FC,29,12,4,13,40,43,-3,40,LLWWL,Top-half race,9.0,-1
+29,11,Sunderland AFC,29,10,10,9,30,34,-4,40,LLLDW,Mid-table,12.0,1
+29,12,Newcastle United FC,29,11,6,12,42,43,-1,39,LWLLW,Mid-table,13.0,1
+29,13,Crystal Palace FC,29,10,8,11,33,35,-2,38,WLWLW,Mid-table,14.0,1
+29,14,Brighton & Hove Albion FC,29,9,10,10,38,36,2,37,LLWWL,Mid-table,11.0,-3
+29,15,Leeds United FC,29,7,10,12,37,48,-11,31,WDDLL,Survival battle,15.0,0
+29,16,Tottenham Hotspur FC,29,7,8,14,39,46,-7,29,LLLLL,Survival battle,16.0,0
+29,17,Nottingham Forest FC,29,7,7,15,28,43,-15,28,LDLLD,Survival battle,17.0,0
+29,18,West Ham United FC,29,7,7,15,35,54,-19,28,WDDLW,Relegation zone,18.0,0
+29,19,Burnley FC,29,4,7,18,32,58,-26,19,LWDLL,Relegation zone,19.0,0
+29,20,Wolverhampton Wanderers FC,29,3,6,20,20,50,-30,15,LDLWW,Relegation zone,20.0,0
+30,1,Arsenal FC,30,21,6,3,59,20,39,69,DWWWW,Champions League,1.0,0
+30,2,Manchester City FC,30,18,7,5,60,28,32,61,WWWDD,Champions League,2.0,0
+30,3,Manchester United FC,30,15,9,6,54,41,13,54,DWWLW,Champions League,3.0,0
+30,4,Aston Villa FC,30,15,6,9,40,37,3,51,WDLLL,Champions League,4.0,0
+30,5,Liverpool FC,30,14,7,9,49,40,9,49,WWWLD,European chase,6.0,1
+30,6,Chelsea FC,30,13,9,8,53,35,18,48,DDLWL,European chase,5.0,-1
+30,7,Brentford FC,30,13,6,11,46,42,4,45,DLWDD,Top-half race,7.0,0
+30,8,Everton FC,30,12,7,11,34,35,-1,43,LLWWL,Top-half race,8.0,0
+30,9,Newcastle United FC,30,12,6,12,43,43,0,42,WLLWW,Top-half race,12.0,3
+30,10,AFC Bournemouth,30,9,14,7,44,46,-2,41,WDDDD,Top-half race,9.0,-1
+30,11,Fulham FC,30,12,5,13,40,43,-3,41,LWWLD,Mid-table,10.0,-1
+30,12,Brighton & Hove Albion FC,30,10,10,10,39,36,3,40,LWWLW,Mid-table,14.0,2
+30,13,Sunderland AFC,30,10,10,10,30,35,-5,40,LLDWL,Mid-table,11.0,-2
+30,14,Crystal Palace FC,30,10,9,11,33,35,-2,39,LWLWD,Mid-table,13.0,-1
+30,15,Leeds United FC,30,7,11,12,37,48,-11,32,DDLLD,Survival battle,15.0,0
+30,16,Tottenham Hotspur FC,30,7,9,14,40,47,-7,30,LLLLD,Survival battle,16.0,0
+30,17,Nottingham Forest FC,30,7,8,15,28,43,-15,29,DLLDD,Survival battle,17.0,0
+30,18,West Ham United FC,30,7,8,15,36,55,-19,29,DDLWD,Relegation zone,18.0,0
+30,19,Burnley FC,30,4,8,18,32,58,-26,20,WDLLD,Relegation zone,19.0,0
+30,20,Wolverhampton Wanderers FC,30,3,7,20,22,52,-30,16,DLWWD,Relegation zone,20.0,0
+31,1,Arsenal FC,31,21,7,3,61,22,39,70,WWWWD,Champions League,1.0,0
+31,2,Manchester City FC,30,18,7,5,60,28,32,61,WWWDD,Champions League,2.0,0
+31,3,Manchester United FC,31,15,10,6,56,43,13,55,WWLWD,Champions League,3.0,0
+31,4,Aston Villa FC,31,16,6,9,42,37,5,54,DLLLW,Champions League,4.0,0
+31,5,Liverpool FC,31,14,7,10,50,42,8,49,WWLDL,European chase,5.0,0
+31,6,Chelsea FC,31,13,9,9,53,38,15,48,DLWLL,European chase,6.0,0
+31,7,Brentford FC,31,13,7,11,46,42,4,46,LWDDD,Top-half race,7.0,0
+31,8,Everton FC,31,13,7,11,37,35,2,46,LWWLW,Top-half race,8.0,0
+31,9,Fulham FC,31,13,5,13,43,44,-1,44,WWLDW,Top-half race,11.0,2
+31,10,Brighton & Hove Albion FC,31,11,10,10,41,37,4,43,WWLWW,Top-half race,12.0,2
+31,11,Sunderland AFC,31,11,10,10,32,36,-4,43,LDWLW,Mid-table,13.0,2
+31,12,Newcastle United FC,31,12,6,13,44,45,-1,42,LLWWL,Mid-table,9.0,-3
+31,13,AFC Bournemouth,31,9,15,7,46,48,-2,42,DDDDD,Mid-table,10.0,-3
+31,14,Crystal Palace FC,30,10,9,11,33,35,-2,39,LWLWD,Mid-table,14.0,0
+31,15,Leeds United FC,31,7,12,12,37,48,-11,33,DLLDD,Survival battle,15.0,0
+31,16,Nottingham Forest FC,31,8,8,15,31,43,-12,32,LLDDW,Survival battle,17.0,1
+31,17,Tottenham Hotspur FC,31,7,9,15,40,50,-10,30,LLLDL,Survival battle,16.0,-1
+31,18,West Ham United FC,31,7,8,16,36,57,-21,29,DLWDL,Relegation zone,18.0,0
+31,19,Burnley FC,31,4,8,19,33,61,-28,20,DLLDL,Relegation zone,19.0,0
+31,20,Wolverhampton Wanderers FC,31,3,8,20,24,54,-30,17,LWWDD,Relegation zone,20.0,0
+32,1,Arsenal FC,32,21,7,4,62,24,38,70,WWWDL,Champions League,1.0,0
+32,2,Manchester City FC,31,19,7,5,63,28,35,64,WWDDW,Champions League,2.0,0
+32,3,Manchester United FC,32,15,10,7,57,45,12,55,WLWDL,Champions League,3.0,0
+32,4,Aston Villa FC,32,16,7,9,43,38,5,55,LLLWD,Champions League,4.0,0
+32,5,Liverpool FC,32,15,7,10,52,42,10,52,WLDLW,European chase,5.0,0
+32,6,Chelsea FC,32,13,9,10,53,41,12,48,LWLLL,European chase,6.0,0
+32,7,Brentford FC,32,13,8,11,48,44,4,47,WDDDD,Top-half race,7.0,0
+32,8,Everton FC,32,13,8,11,39,37,2,47,WWLWD,Top-half race,8.0,0
+32,9,Brighton & Hove Albion FC,32,12,10,10,43,37,6,46,WLWWW,Top-half race,10.0,1
+32,10,Sunderland AFC,32,12,10,10,33,36,-3,46,DWLWW,Top-half race,11.0,1
+32,11,AFC Bournemouth,32,10,15,7,48,49,-1,45,DDDDW,Mid-table,13.0,2
+32,12,Fulham FC,32,13,5,14,43,46,-3,44,WLDWL,Mid-table,9.0,-3
+32,13,Crystal Palace FC,31,11,9,11,35,36,-1,42,WLWDW,Mid-table,14.0,1
+32,14,Newcastle United FC,32,12,6,14,45,47,-2,42,LWWLL,Mid-table,12.0,-2
+32,15,Leeds United FC,32,8,12,12,39,49,-10,36,LLDDW,Survival battle,15.0,0
+32,16,Nottingham Forest FC,32,8,9,15,32,44,-12,33,LDDWD,Survival battle,16.0,0
+32,17,West Ham United FC,32,8,8,16,40,57,-17,32,LWDLW,Survival battle,18.0,1
+32,18,Tottenham Hotspur FC,32,7,9,16,40,51,-11,30,LLDLL,Relegation zone,17.0,-1
+32,19,Burnley FC,32,4,8,20,33,63,-30,20,LLDLL,Relegation zone,19.0,0
+32,20,Wolverhampton Wanderers FC,32,3,8,21,24,58,-34,17,WWDDL,Relegation zone,20.0,0
+33,1,Arsenal FC,33,21,7,5,63,26,37,70,WWDLL,Champions League,1.0,0
+33,2,Manchester City FC,32,20,7,5,65,29,36,67,WDDWW,Champions League,2.0,0
+33,3,Manchester United FC,33,16,10,7,58,45,13,58,LWDLW,Champions League,3.0,0
+33,4,Aston Villa FC,33,17,7,9,47,41,6,58,LLWDW,Champions League,4.0,0
+33,5,Liverpool FC,33,16,7,10,54,43,11,55,LDLWW,European chase,5.0,0
+33,6,Chelsea FC,33,13,9,11,53,42,11,48,WLLLL,European chase,6.0,0
+33,7,Brentford FC,33,13,9,11,48,44,4,48,DDDDD,Top-half race,7.0,0
+33,8,AFC Bournemouth,33,11,15,7,50,50,0,48,DDDWW,Top-half race,11.0,3
+33,9,Brighton & Hove Albion FC,33,12,11,10,45,39,6,47,LWWWD,Top-half race,9.0,0
+33,10,Everton FC,33,13,8,12,40,39,1,47,WLWDL,Top-half race,8.0,-2
+33,11,Sunderland AFC,33,12,10,11,36,40,-4,46,WLWWL,Mid-table,10.0,-1
+33,12,Fulham FC,33,13,6,14,43,46,-3,45,LDWLD,Mid-table,12.0,0
+33,13,Crystal Palace FC,32,11,10,11,35,36,-1,43,LWDWD,Mid-table,13.0,0
+33,14,Newcastle United FC,33,12,6,15,46,49,-3,42,WWLLL,Mid-table,14.0,0
+33,15,Leeds United FC,33,9,12,12,42,49,-7,39,LDDWW,Survival battle,15.0,0
+33,16,Nottingham Forest FC,33,9,9,15,36,45,-9,36,DDWDW,Survival battle,16.0,0
+33,17,West Ham United FC,33,8,9,16,40,57,-17,33,WDLWD,Survival battle,17.0,0
+33,18,Tottenham Hotspur FC,33,7,10,16,42,53,-11,31,LDLLD,Relegation zone,18.0,0
+33,19,Burnley FC,33,4,8,21,34,67,-33,20,LDLLL,Relegation zone,19.0,0
+33,20,Wolverhampton Wanderers FC,33,3,8,22,24,61,-37,17,WDDLL,Relegation zone,20.0,0
+34,1,Arsenal FC,34,22,7,5,64,26,38,73,WDLLW,Champions League,1.0,0
+34,2,Manchester City FC,33,21,7,5,66,29,37,70,DDWWW,Champions League,2.0,0
+34,3,Manchester United FC,33,16,10,7,58,45,13,58,LWDLW,Champions League,3.0,0
+34,4,Liverpool FC,34,17,7,10,57,44,13,58,DLWWW,Champions League,5.0,1
+34,5,Aston Villa FC,34,17,7,10,47,42,5,58,LWDWL,European chase,4.0,-1
+34,6,Brighton & Hove Albion FC,34,13,11,10,48,39,9,50,WWWDW,European chase,9.0,3
+34,7,AFC Bournemouth,34,11,16,7,52,52,0,49,DDWWD,Top-half race,8.0,1
+34,8,Chelsea FC,34,13,9,12,53,45,8,48,LLLLL,Top-half race,6.0,-2
+34,9,Brentford FC,33,13,9,11,48,44,4,48,DDDDD,Top-half race,7.0,-2
+34,10,Fulham FC,34,14,6,14,44,46,-2,48,DWLDW,Top-half race,12.0,2
+34,11,Everton FC,34,13,8,13,41,41,0,47,LWDLL,Mid-table,10.0,-1
+34,12,Sunderland AFC,34,12,10,12,36,45,-9,46,LWWLL,Mid-table,11.0,-1
+34,13,Crystal Palace FC,33,11,10,12,36,39,-3,43,WDWDL,Mid-table,13.0,0
+34,14,Newcastle United FC,34,12,6,16,46,50,-4,42,WLLLL,Mid-table,14.0,0
+34,15,Leeds United FC,34,9,13,12,44,51,-7,40,DDWWD,Survival battle,15.0,0
+34,16,Nottingham Forest FC,34,10,9,15,41,45,-4,39,DWDWW,Survival battle,16.0,0
+34,17,West Ham United FC,34,9,9,16,42,58,-16,36,DLWDW,Survival battle,17.0,0
+34,18,Tottenham Hotspur FC,34,8,10,16,43,53,-10,34,DLLDW,Relegation zone,18.0,0
+34,19,Burnley FC,34,4,8,22,34,68,-34,20,DLLLL,Relegation zone,19.0,0
+34,20,Wolverhampton Wanderers FC,34,3,8,23,24,62,-38,17,DDLLL,Relegation zone,20.0,0
