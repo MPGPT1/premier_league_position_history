@@ -12,11 +12,10 @@ BASE_URL = "https://api.football-data.org/v4"
 COMPETITION_CODE = "PL"
 SEASON_START_YEAR = 2025
 
-# Environment variable name used in GitHub Actions/local runs
 API_TOKEN_ENV_VAR = "FOOTBALL_DATA_API_TOKEN"
 
-# Temporary/default token.
-# If this is a real token, do not commit it publicly.
+# Fallback token for GitHub-hosted runs.
+# For a public repo, GitHub Secrets would be safer.
 DEFAULT_API_TOKEN = "c7d0a590792f4b508341aed2c6d2fc74"
 
 
@@ -35,7 +34,14 @@ POSITION_HISTORY_PATH = OUTPUTS_DIR / "position_history.csv"
 LATEST_TABLE_PATH = OUTPUTS_DIR / "latest_table.csv"
 
 OUTPUT_CHART_PATH = OUTPUTS_DIR / "premier_league_position_history.html"
-DOCS_INDEX_PATH = DOCS_DIR / "index.html"
+
+# Jekyll/GitHub Pages setup:
+# docs/index.md = themed landing page
+# docs/chart.html = generated Plotly chart
+DOCS_CHART_PATH = DOCS_DIR / "chart.html"
+DOCS_INDEX_MD_PATH = DOCS_DIR / "index.md"
+DOCS_CONFIG_PATH = DOCS_DIR / "_config.yml"
+DOCS_README_PATH = DOCS_DIR / "README.md"
 
 
 # ---------------------------------------------------------
