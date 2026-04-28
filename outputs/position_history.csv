@@ -661,13 +661,13 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 33,20,Wolverhampton Wanderers FC,33,3,8,22,24,61,-37,17,WDDLL,Relegation zone,20.0,0
 34,1,Arsenal FC,34,22,7,5,64,26,38,73,WDLLW,Champions League,1.0,0
 34,2,Manchester City FC,33,21,7,5,66,29,37,70,DDWWW,Champions League,2.0,0
-34,3,Manchester United FC,33,16,10,7,58,45,13,58,LWDLW,Champions League,3.0,0
+34,3,Manchester United FC,34,17,10,7,60,46,14,61,WDLWW,Champions League,3.0,0
 34,4,Liverpool FC,34,17,7,10,57,44,13,58,DLWWW,Champions League,5.0,1
 34,5,Aston Villa FC,34,17,7,10,47,42,5,58,LWDWL,European chase,4.0,-1
 34,6,Brighton & Hove Albion FC,34,13,11,10,48,39,9,50,WWWDW,European chase,9.0,3
 34,7,AFC Bournemouth,34,11,16,7,52,52,0,49,DDWWD,Top-half race,8.0,1
 34,8,Chelsea FC,34,13,9,12,53,45,8,48,LLLLL,Top-half race,6.0,-2
-34,9,Brentford FC,33,13,9,11,48,44,4,48,DDDDD,Top-half race,7.0,-2
+34,9,Brentford FC,34,13,9,12,49,46,3,48,DDDDL,Top-half race,7.0,-2
 34,10,Fulham FC,34,14,6,14,44,46,-2,48,DWLDW,Top-half race,12.0,2
 34,11,Everton FC,34,13,8,13,41,41,0,47,LWDLL,Mid-table,10.0,-1
 34,12,Sunderland AFC,34,12,10,12,36,45,-9,46,LWWLL,Mid-table,11.0,-1

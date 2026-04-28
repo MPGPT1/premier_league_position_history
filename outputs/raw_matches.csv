@@ -337,7 +337,7 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538123,34,2026-04-25 14:00:00+00:00,FINISHED,West Ham United FC,Everton FC,2.0,1.0
 538124,34,2026-04-25 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Tottenham Hotspur FC,0.0,1.0
 538118,34,2026-04-25 16:30:00+00:00,FINISHED,Arsenal FC,Newcastle United FC,1.0,0.0
-538122,34,2026-04-27 19:00:00+00:00,TIMED,Manchester United FC,Brentford FC,,
+538122,34,2026-04-27 19:00:00+00:00,FINISHED,Manchester United FC,Brentford FC,2.0,1.0
 538131,35,2026-05-01 19:00:00+00:00,TIMED,Leeds United FC,Burnley FC,,
 538128,35,2026-05-02 14:00:00+00:00,TIMED,Brentford FC,West Ham United FC,,
 538133,35,2026-05-02 14:00:00+00:00,TIMED,Newcastle United FC,Brighton & Hove Albion FC,,
@@ -358,11 +358,11 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538142,36,2026-05-10 13:00:00+00:00,TIMED,Nottingham Forest FC,Newcastle United FC,,
 538144,36,2026-05-10 15:30:00+00:00,TIMED,West Ham United FC,Arsenal FC,,
 538143,36,2026-05-11 19:00:00+00:00,TIMED,Tottenham Hotspur FC,Leeds United FC,,
-538145,37,2026-05-17 14:00:00+00:00,TIMED,AFC Bournemouth,Manchester City FC,,
+538145,37,2026-05-17 00:00:00+00:00,POSTPONED,AFC Bournemouth,Manchester City FC,,
+538149,37,2026-05-17 00:00:00+00:00,POSTPONED,Chelsea FC,Tottenham Hotspur FC,,
 538146,37,2026-05-17 14:00:00+00:00,TIMED,Aston Villa FC,Liverpool FC,,
 538147,37,2026-05-17 14:00:00+00:00,TIMED,Arsenal FC,Burnley FC,,
 538148,37,2026-05-17 14:00:00+00:00,TIMED,Brentford FC,Crystal Palace FC,,
-538149,37,2026-05-17 14:00:00+00:00,TIMED,Chelsea FC,Tottenham Hotspur FC,,
 538150,37,2026-05-17 14:00:00+00:00,TIMED,Everton FC,Sunderland AFC,,
 538151,37,2026-05-17 14:00:00+00:00,TIMED,Leeds United FC,Brighton & Hove Albion FC,,
 538152,37,2026-05-17 14:00:00+00:00,TIMED,Manchester United FC,Nottingham Forest FC,,
