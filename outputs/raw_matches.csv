@@ -338,7 +338,7 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538124,34,2026-04-25 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Tottenham Hotspur FC,0.0,1.0
 538118,34,2026-04-25 16:30:00+00:00,FINISHED,Arsenal FC,Newcastle United FC,1.0,0.0
 538122,34,2026-04-27 19:00:00+00:00,FINISHED,Manchester United FC,Brentford FC,2.0,1.0
-538131,35,2026-05-01 19:00:00+00:00,TIMED,Leeds United FC,Burnley FC,,
+538131,35,2026-05-01 19:00:00+00:00,FINISHED,Leeds United FC,Burnley FC,3.0,1.0
 538128,35,2026-05-02 14:00:00+00:00,TIMED,Brentford FC,West Ham United FC,,
 538133,35,2026-05-02 14:00:00+00:00,TIMED,Newcastle United FC,Brighton & Hove Albion FC,,
 538134,35,2026-05-02 14:00:00+00:00,TIMED,Wolverhampton Wanderers FC,Sunderland AFC,,

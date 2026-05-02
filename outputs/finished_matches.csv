@@ -338,3 +338,4 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538124,34,2026-04-25 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Tottenham Hotspur FC,0,1
 538118,34,2026-04-25 16:30:00+00:00,FINISHED,Arsenal FC,Newcastle United FC,1,0
 538122,34,2026-04-27 19:00:00+00:00,FINISHED,Manchester United FC,Brentford FC,2,1
+538131,35,2026-05-01 19:00:00+00:00,FINISHED,Leeds United FC,Burnley FC,3,1
