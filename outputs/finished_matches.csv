@@ -339,3 +339,7 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538118,34,2026-04-25 16:30:00+00:00,FINISHED,Arsenal FC,Newcastle United FC,1,0
 538122,34,2026-04-27 19:00:00+00:00,FINISHED,Manchester United FC,Brentford FC,2,1
 538131,35,2026-05-01 19:00:00+00:00,FINISHED,Leeds United FC,Burnley FC,3,1
+538128,35,2026-05-02 14:00:00+00:00,FINISHED,Brentford FC,West Ham United FC,3,0
+538133,35,2026-05-02 14:00:00+00:00,FINISHED,Newcastle United FC,Brighton & Hove Albion FC,3,1
+538134,35,2026-05-02 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Sunderland AFC,1,1
+538127,35,2026-05-02 16:30:00+00:00,FINISHED,Arsenal FC,Fulham FC,3,0
