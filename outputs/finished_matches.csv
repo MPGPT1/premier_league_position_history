@@ -343,3 +343,6 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538133,35,2026-05-02 14:00:00+00:00,FINISHED,Newcastle United FC,Brighton & Hove Albion FC,3,1
 538134,35,2026-05-02 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Sunderland AFC,1,1
 538127,35,2026-05-02 16:30:00+00:00,FINISHED,Arsenal FC,Fulham FC,3,0
+538125,35,2026-05-03 13:00:00+00:00,FINISHED,AFC Bournemouth,Crystal Palace FC,3,0
+538132,35,2026-05-03 14:30:00+00:00,FINISHED,Manchester United FC,Liverpool FC,3,2
+538126,35,2026-05-03 18:00:00+00:00,FINISHED,Aston Villa FC,Tottenham Hotspur FC,1,2
