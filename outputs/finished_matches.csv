@@ -348,3 +348,8 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538126,35,2026-05-03 18:00:00+00:00,FINISHED,Aston Villa FC,Tottenham Hotspur FC,1,2
 538129,35,2026-05-04 14:00:00+00:00,FINISHED,Chelsea FC,Nottingham Forest FC,1,3
 538130,35,2026-05-04 19:00:00+00:00,FINISHED,Everton FC,Manchester City FC,3,3
+538140,36,2026-05-09 11:30:00+00:00,FINISHED,Liverpool FC,Chelsea FC,1,1
+538135,36,2026-05-09 14:00:00+00:00,FINISHED,Sunderland AFC,Manchester United FC,0,0
+538136,36,2026-05-09 14:00:00+00:00,FINISHED,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,3,0
+538139,36,2026-05-09 14:00:00+00:00,FINISHED,Fulham FC,AFC Bournemouth,0,1
+538141,36,2026-05-09 16:30:00+00:00,FINISHED,Manchester City FC,Brentford FC,3,0
