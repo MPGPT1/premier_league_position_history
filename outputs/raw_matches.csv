@@ -357,7 +357,7 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538138,36,2026-05-10 13:00:00+00:00,FINISHED,Burnley FC,Aston Villa FC,2.0,2.0
 538142,36,2026-05-10 13:00:00+00:00,FINISHED,Nottingham Forest FC,Newcastle United FC,1.0,1.0
 538144,36,2026-05-10 15:30:00+00:00,FINISHED,West Ham United FC,Arsenal FC,0.0,1.0
-538143,36,2026-05-11 19:00:00+00:00,TIMED,Tottenham Hotspur FC,Leeds United FC,,
+538143,36,2026-05-11 19:00:00+00:00,FINISHED,Tottenham Hotspur FC,Leeds United FC,1.0,1.0
 538091,31,2026-05-13 19:00:00+00:00,TIMED,Manchester City FC,Crystal Palace FC,,
 538146,37,2026-05-15 19:00:00+00:00,TIMED,Aston Villa FC,Liverpool FC,,
 538152,37,2026-05-17 11:30:00+00:00,TIMED,Manchester United FC,Nottingham Forest FC,,

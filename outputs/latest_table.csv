@@ -12,10 +12,10 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 36,11,Fulham FC,36,14,6,16,44,50,-6,48,LDWLL,Mid-table,11.0,0
 36,12,Sunderland AFC,36,12,12,12,37,46,-9,48,WLLDD,Mid-table,12.0,0
 36,13,Newcastle United FC,36,13,7,16,50,52,-2,46,LLLWD,Mid-table,13.0,0
-36,14,Crystal Palace FC,35,11,11,13,38,44,-6,44,WDLLD,Mid-table,15.0,1
-36,15,Nottingham Forest FC,36,11,10,15,45,47,-2,43,DWWWD,Survival battle,16.0,1
-36,16,Leeds United FC,35,10,13,12,47,52,-5,43,DWWDW,Survival battle,14.0,-2
-36,17,Tottenham Hotspur FC,35,9,10,16,45,54,-9,37,LLDWW,Survival battle,17.0,0
+36,14,Leeds United FC,36,10,14,12,48,53,-5,44,WWDWD,Mid-table,14.0,0
+36,15,Crystal Palace FC,35,11,11,13,38,44,-6,44,WDLLD,Survival battle,15.0,0
+36,16,Nottingham Forest FC,36,11,10,15,45,47,-2,43,DWWWD,Survival battle,16.0,0
+36,17,Tottenham Hotspur FC,36,9,11,16,46,55,-9,38,LDWWD,Survival battle,17.0,0
 36,18,West Ham United FC,36,9,9,18,42,62,-20,36,WDWLL,Relegation zone,18.0,0
 36,19,Burnley FC,36,4,9,23,37,73,-36,21,LLLLD,Relegation zone,19.0,0
 36,20,Wolverhampton Wanderers FC,36,3,9,24,25,66,-41,18,LLLDL,Relegation zone,20.0,0
