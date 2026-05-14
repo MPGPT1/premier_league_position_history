@@ -600,7 +600,7 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 30,19,Burnley FC,30,4,8,18,32,58,-26,20,WDLLD,Relegation zone,19.0,0
 30,20,Wolverhampton Wanderers FC,30,3,7,20,22,52,-30,16,DLWWD,Relegation zone,20.0,0
 31,1,Arsenal FC,31,21,7,3,61,22,39,70,WWWWD,Champions League,1.0,0
-31,2,Manchester City FC,30,18,7,5,60,28,32,61,WWWDD,Champions League,2.0,0
+31,2,Manchester City FC,31,19,7,5,63,28,35,64,WWDDW,Champions League,2.0,0
 31,3,Manchester United FC,31,15,10,6,56,43,13,55,WWLWD,Champions League,3.0,0
 31,4,Aston Villa FC,31,16,6,9,42,37,5,54,DLLLW,Champions League,4.0,0
 31,5,Liverpool FC,31,14,7,10,50,42,8,49,WWLDL,European chase,5.0,0
@@ -612,7 +612,7 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 31,11,Sunderland AFC,31,11,10,10,32,36,-4,43,LDWLW,Mid-table,13.0,2
 31,12,Newcastle United FC,31,12,6,13,44,45,-1,42,LLWWL,Mid-table,9.0,-3
 31,13,AFC Bournemouth,31,9,15,7,46,48,-2,42,DDDDD,Mid-table,10.0,-3
-31,14,Crystal Palace FC,30,10,9,11,33,35,-2,39,LWLWD,Mid-table,14.0,0
+31,14,Crystal Palace FC,31,10,9,12,33,38,-5,39,WLWDL,Mid-table,14.0,0
 31,15,Leeds United FC,31,7,12,12,37,48,-11,33,DLLDD,Survival battle,15.0,0
 31,16,Nottingham Forest FC,31,8,8,15,31,43,-12,32,LLDDW,Survival battle,17.0,1
 31,17,Tottenham Hotspur FC,31,7,9,15,40,50,-10,30,LLLDL,Survival battle,16.0,-1
@@ -620,7 +620,7 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 31,19,Burnley FC,31,4,8,19,33,61,-28,20,DLLDL,Relegation zone,19.0,0
 31,20,Wolverhampton Wanderers FC,31,3,8,20,24,54,-30,17,LWWDD,Relegation zone,20.0,0
 32,1,Arsenal FC,32,21,7,4,62,24,38,70,WWWDL,Champions League,1.0,0
-32,2,Manchester City FC,31,19,7,5,63,28,35,64,WWDDW,Champions League,2.0,0
+32,2,Manchester City FC,32,20,7,5,66,28,38,67,WDDWW,Champions League,2.0,0
 32,3,Manchester United FC,32,15,10,7,57,45,12,55,WLWDL,Champions League,3.0,0
 32,4,Aston Villa FC,32,16,7,9,43,38,5,55,LLLWD,Champions League,4.0,0
 32,5,Liverpool FC,32,15,7,10,52,42,10,52,WLDLW,European chase,5.0,0
@@ -631,16 +631,16 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 32,10,Sunderland AFC,32,12,10,10,33,36,-3,46,DWLWW,Top-half race,11.0,1
 32,11,AFC Bournemouth,32,10,15,7,48,49,-1,45,DDDDW,Mid-table,13.0,2
 32,12,Fulham FC,32,13,5,14,43,46,-3,44,WLDWL,Mid-table,9.0,-3
-32,13,Crystal Palace FC,31,11,9,11,35,36,-1,42,WLWDW,Mid-table,14.0,1
-32,14,Newcastle United FC,32,12,6,14,45,47,-2,42,LWWLL,Mid-table,12.0,-2
+32,13,Newcastle United FC,32,12,6,14,45,47,-2,42,LWWLL,Mid-table,12.0,-1
+32,14,Crystal Palace FC,32,11,9,12,35,39,-4,42,LWDLW,Mid-table,14.0,0
 32,15,Leeds United FC,32,8,12,12,39,49,-10,36,LLDDW,Survival battle,15.0,0
 32,16,Nottingham Forest FC,32,8,9,15,32,44,-12,33,LDDWD,Survival battle,16.0,0
 32,17,West Ham United FC,32,8,8,16,40,57,-17,32,LWDLW,Survival battle,18.0,1
 32,18,Tottenham Hotspur FC,32,7,9,16,40,51,-11,30,LLDLL,Relegation zone,17.0,-1
 32,19,Burnley FC,32,4,8,20,33,63,-30,20,LLDLL,Relegation zone,19.0,0
 32,20,Wolverhampton Wanderers FC,32,3,8,21,24,58,-34,17,WWDDL,Relegation zone,20.0,0
-33,1,Arsenal FC,33,21,7,5,63,26,37,70,WWDLL,Champions League,1.0,0
-33,2,Manchester City FC,32,20,7,5,65,29,36,67,WDDWW,Champions League,2.0,0
+33,1,Manchester City FC,33,21,7,5,68,29,39,70,DDWWW,Champions League,2.0,1
+33,2,Arsenal FC,33,21,7,5,63,26,37,70,WWDLL,Champions League,1.0,-1
 33,3,Manchester United FC,33,16,10,7,58,45,13,58,LWDLW,Champions League,3.0,0
 33,4,Aston Villa FC,33,17,7,9,47,41,6,58,LLWDW,Champions League,4.0,0
 33,5,Liverpool FC,33,16,7,10,54,43,11,55,LDLWW,European chase,5.0,0
@@ -651,16 +651,16 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 33,10,Everton FC,33,13,8,12,40,39,1,47,WLWDL,Top-half race,8.0,-2
 33,11,Sunderland AFC,33,12,10,11,36,40,-4,46,WLWWL,Mid-table,10.0,-1
 33,12,Fulham FC,33,13,6,14,43,46,-3,45,LDWLD,Mid-table,12.0,0
-33,13,Crystal Palace FC,32,11,10,11,35,36,-1,43,LWDWD,Mid-table,13.0,0
-33,14,Newcastle United FC,33,12,6,15,46,49,-3,42,WWLLL,Mid-table,14.0,0
+33,13,Crystal Palace FC,33,11,10,12,35,39,-4,43,WDLWD,Mid-table,14.0,1
+33,14,Newcastle United FC,33,12,6,15,46,49,-3,42,WWLLL,Mid-table,13.0,-1
 33,15,Leeds United FC,33,9,12,12,42,49,-7,39,LDDWW,Survival battle,15.0,0
 33,16,Nottingham Forest FC,33,9,9,15,36,45,-9,36,DDWDW,Survival battle,16.0,0
 33,17,West Ham United FC,33,8,9,16,40,57,-17,33,WDLWD,Survival battle,17.0,0
 33,18,Tottenham Hotspur FC,33,7,10,16,42,53,-11,31,LDLLD,Relegation zone,18.0,0
 33,19,Burnley FC,33,4,8,21,34,67,-33,20,LDLLL,Relegation zone,19.0,0
 33,20,Wolverhampton Wanderers FC,33,3,8,22,24,61,-37,17,WDDLL,Relegation zone,20.0,0
-34,1,Arsenal FC,34,22,7,5,64,26,38,73,WDLLW,Champions League,1.0,0
-34,2,Manchester City FC,33,21,7,5,66,29,37,70,DDWWW,Champions League,2.0,0
+34,1,Manchester City FC,34,22,7,5,69,29,40,73,DWWWW,Champions League,1.0,0
+34,2,Arsenal FC,34,22,7,5,64,26,38,73,WDLLW,Champions League,2.0,0
 34,3,Manchester United FC,34,17,10,7,60,46,14,61,WDLWW,Champions League,3.0,0
 34,4,Liverpool FC,34,17,7,10,57,44,13,58,DLWWW,Champions League,5.0,1
 34,5,Aston Villa FC,34,17,7,10,47,42,5,58,LWDWL,European chase,4.0,-1
@@ -671,7 +671,7 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 34,10,Fulham FC,34,14,6,14,44,46,-2,48,DWLDW,Top-half race,12.0,2
 34,11,Everton FC,34,13,8,13,41,41,0,47,LWDLL,Mid-table,10.0,-1
 34,12,Sunderland AFC,34,12,10,12,36,45,-9,46,LWWLL,Mid-table,11.0,-1
-34,13,Crystal Palace FC,33,11,10,12,36,39,-3,43,WDWDL,Mid-table,13.0,0
+34,13,Crystal Palace FC,34,11,10,13,36,42,-6,43,DLWDL,Mid-table,13.0,0
 34,14,Newcastle United FC,34,12,6,16,46,50,-4,42,WLLLL,Mid-table,14.0,0
 34,15,Leeds United FC,34,9,13,12,44,51,-7,40,DDWWD,Survival battle,15.0,0
 34,16,Nottingham Forest FC,34,10,9,15,41,45,-4,39,DWDWW,Survival battle,16.0,0
@@ -679,8 +679,8 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 34,18,Tottenham Hotspur FC,34,8,10,16,43,53,-10,34,DLLDW,Relegation zone,18.0,0
 34,19,Burnley FC,34,4,8,22,34,68,-34,20,DLLLL,Relegation zone,19.0,0
 34,20,Wolverhampton Wanderers FC,34,3,8,23,24,62,-38,17,DDLLL,Relegation zone,20.0,0
-35,1,Arsenal FC,35,23,7,5,67,26,41,76,DLLWW,Champions League,1.0,0
-35,2,Manchester City FC,34,21,8,5,69,32,37,71,DWWWD,Champions League,2.0,0
+35,1,Arsenal FC,35,23,7,5,67,26,41,76,DLLWW,Champions League,2.0,1
+35,2,Manchester City FC,35,22,8,5,72,32,40,74,WWWWD,Champions League,1.0,-1
 35,3,Manchester United FC,35,18,10,7,63,48,15,64,DLWWW,Champions League,3.0,0
 35,4,Liverpool FC,35,17,7,11,59,47,12,58,LWWWL,Champions League,4.0,0
 35,5,Aston Villa FC,35,17,7,11,48,44,4,58,WDWLL,European chase,5.0,0
@@ -693,14 +693,14 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 35,12,Sunderland AFC,35,12,11,12,37,46,-9,47,WWLLD,Mid-table,12.0,0
 35,13,Newcastle United FC,35,13,6,16,49,51,-2,45,LLLLW,Mid-table,14.0,1
 35,14,Leeds United FC,35,10,13,12,47,52,-5,43,DWWDW,Mid-table,15.0,1
-35,15,Crystal Palace FC,34,11,10,13,36,42,-6,43,DWDLL,Survival battle,13.0,-2
+35,15,Crystal Palace FC,35,11,10,14,36,45,-9,43,LWDLL,Survival battle,13.0,-2
 35,16,Nottingham Forest FC,35,11,9,15,44,46,-2,42,WDWWW,Survival battle,16.0,0
 35,17,Tottenham Hotspur FC,35,9,10,16,45,54,-9,37,LLDWW,Survival battle,18.0,1
 35,18,West Ham United FC,35,9,9,17,42,61,-19,36,LWDWL,Relegation zone,17.0,-1
 35,19,Burnley FC,35,4,8,23,35,71,-36,20,LLLLL,Relegation zone,19.0,0
 35,20,Wolverhampton Wanderers FC,35,3,9,23,25,63,-38,18,DLLLD,Relegation zone,20.0,0
 36,1,Arsenal FC,36,24,7,5,68,26,42,79,LLWWW,Champions League,1.0,0
-36,2,Manchester City FC,35,22,8,5,72,32,40,74,WWWDW,Champions League,2.0,0
+36,2,Manchester City FC,36,23,8,5,75,32,43,77,WWWDW,Champions League,2.0,0
 36,3,Manchester United FC,36,18,11,7,63,48,15,65,LWWWD,Champions League,3.0,0
 36,4,Liverpool FC,36,17,8,11,60,48,12,59,WWWLD,Champions League,4.0,0
 36,5,Aston Villa FC,36,17,8,11,50,46,4,59,DWLLD,European chase,5.0,0
@@ -713,7 +713,7 @@ matchday,position,team,played,won,drawn,lost,goals_for,goals_against,goal_differ
 36,12,Sunderland AFC,36,12,12,12,37,46,-9,48,WLLDD,Mid-table,12.0,0
 36,13,Newcastle United FC,36,13,7,16,50,52,-2,46,LLLWD,Mid-table,13.0,0
 36,14,Leeds United FC,36,10,14,12,48,53,-5,44,WWDWD,Mid-table,14.0,0
-36,15,Crystal Palace FC,35,11,11,13,38,44,-6,44,WDLLD,Survival battle,15.0,0
+36,15,Crystal Palace FC,36,11,11,14,38,47,-9,44,WDLLD,Survival battle,15.0,0
 36,16,Nottingham Forest FC,36,11,10,15,45,47,-2,43,DWWWD,Survival battle,16.0,0
 36,17,Tottenham Hotspur FC,36,9,11,16,46,55,-9,38,LDWWD,Survival battle,17.0,0
 36,18,West Ham United FC,36,9,9,18,42,62,-20,36,WDWLL,Relegation zone,18.0,0

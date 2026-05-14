@@ -308,6 +308,7 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538092,31,2026-03-22 12:00:00+00:00,FINISHED,Newcastle United FC,Sunderland AFC,1,2
 538086,31,2026-03-22 14:15:00+00:00,FINISHED,Aston Villa FC,West Ham United FC,2,0
 538093,31,2026-03-22 14:15:00+00:00,FINISHED,Tottenham Hotspur FC,Nottingham Forest FC,0,3
+538091,31,2026-05-13 19:00:00+00:00,FINISHED,Manchester City FC,Crystal Palace FC,3,0
 538104,32,2026-04-10 19:00:00+00:00,FINISHED,West Ham United FC,Wolverhampton Wanderers FC,4,0
 538097,32,2026-04-11 11:30:00+00:00,FINISHED,Arsenal FC,AFC Bournemouth,1,2
 538098,32,2026-04-11 14:00:00+00:00,FINISHED,Brentford FC,Everton FC,2,2
