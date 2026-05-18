@@ -360,12 +360,12 @@ match_id,matchday,utc_date,status,home_team,away_team,home_goals,away_goals
 538143,36,2026-05-11 19:00:00+00:00,FINISHED,Tottenham Hotspur FC,Leeds United FC,1.0,1.0
 538091,31,2026-05-13 19:00:00+00:00,FINISHED,Manchester City FC,Crystal Palace FC,3.0,0.0
 538146,37,2026-05-15 19:00:00+00:00,FINISHED,Aston Villa FC,Liverpool FC,4.0,2.0
-538152,37,2026-05-17 11:30:00+00:00,TIMED,Manchester United FC,Nottingham Forest FC,,
-538148,37,2026-05-17 14:00:00+00:00,TIMED,Brentford FC,Crystal Palace FC,,
-538150,37,2026-05-17 14:00:00+00:00,TIMED,Everton FC,Sunderland AFC,,
-538151,37,2026-05-17 14:00:00+00:00,TIMED,Leeds United FC,Brighton & Hove Albion FC,,
-538154,37,2026-05-17 14:00:00+00:00,TIMED,Wolverhampton Wanderers FC,Fulham FC,,
-538153,37,2026-05-17 16:30:00+00:00,TIMED,Newcastle United FC,West Ham United FC,,
+538152,37,2026-05-17 11:30:00+00:00,FINISHED,Manchester United FC,Nottingham Forest FC,3.0,2.0
+538148,37,2026-05-17 14:00:00+00:00,FINISHED,Brentford FC,Crystal Palace FC,2.0,2.0
+538150,37,2026-05-17 14:00:00+00:00,FINISHED,Everton FC,Sunderland AFC,1.0,3.0
+538151,37,2026-05-17 14:00:00+00:00,FINISHED,Leeds United FC,Brighton & Hove Albion FC,1.0,0.0
+538154,37,2026-05-17 14:00:00+00:00,FINISHED,Wolverhampton Wanderers FC,Fulham FC,1.0,1.0
+538153,37,2026-05-17 16:30:00+00:00,FINISHED,Newcastle United FC,West Ham United FC,3.0,1.0
 538147,37,2026-05-18 19:00:00+00:00,TIMED,Arsenal FC,Burnley FC,,
 538145,37,2026-05-19 18:30:00+00:00,TIMED,AFC Bournemouth,Manchester City FC,,
 538149,37,2026-05-19 19:15:00+00:00,TIMED,Chelsea FC,Tottenham Hotspur FC,,
